@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 16.7.2008: Photos from On the Rocks gig
+
+Some new photos from On the Rocks gig, by Jerry Hellstr&ouml;m, are available in "photos":photos.html section.
+
 h3. 9.7.2008
 
 Cold Cold Ground would like to thank everyone who showed up at On The Rocks last Monday. The show was great fun!
@@ -145,7 +149,7 @@ New photos from our Semifinal gig last October are available! See "photos":photo
 
 h3. Gig at Findustrial Metal Festival, 16.5.2007
 
-Cold Cold Ground will be playing at "Findustrial Metal Festival":http://www.findustrial.com, Gloria, Helsinki, on Wednesday 16th of May. CCG will take over the stage at 20:00. Tickets 10e, presales: www.tiketti.fi 8e.
+Cold Cold Ground will be playing at Findustrial Metal Festival, Gloria, Helsinki, on Wednesday 16th of May. CCG will take over the stage at 20:00. Tickets 10e, presales: www.tiketti.fi 8e.
 
 h3. 30.3.2007: Custom Built EP available
 

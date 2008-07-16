@@ -6,26 +6,43 @@ filter:
 ---
 h3. On the Rocks, 7.7.2008
 
-"(lightwindow)!http://farm4.static.flickr.com/3238/2673273151_7f9aee5acc_t.jpg!":http://farm4.static.flickr.com/3238/2673273151_7f9aee5acc.jpg
-"(lightwindow)!http://farm4.static.flickr.com/3025/2674090100_38ba65121e_t.jpg!":http://farm4.static.flickr.com/3025/2674090100_38ba65121e.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3003/2673279117_a89a7f96ca_s.jpg!":http://farm4.static.flickr.com/3003/2673279117_a89a7f96ca.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3217/2674114162_43ab7c9719_s.jpg!":http://farm4.static.flickr.com/3217/2674114162_43ab7c9719.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3118/2674115918_5cf7a5ac06_s.jpg!":http://farm4.static.flickr.com/3118/2674115918_5cf7a5ac06.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3178/2674117722_12414d5ee8_s.jpg!":http://farm4.static.flickr.com/3178/2674117722_12414d5ee8.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3146/2673304045_8649682c49_s.jpg!":http://farm4.static.flickr.com/3146/2673304045_8649682c49.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3270/2673319575_b7cdef7105_s.jpg!":http://farm4.static.flickr.com/3270/2673319575_b7cdef7105.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3239/2674145128_43843d7b56_s.jpg!":http://farm4.static.flickr.com/3239/2674145128_43843d7b56.jpg
+"(lightwindow)!http://farm3.static.flickr.com/2030/2673329331_fc478cd8e3_s.jpg!":http://farm3.static.flickr.com/2030/2673329331_fc478cd8e3.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3265/2674160786_31761af8e7_s.jpg!":http://farm4.static.flickr.com/3265/2674160786_31761af8e7.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3090/2674158908_03850bc90c_s.jpg!":http://farm4.static.flickr.com/3090/2674158908_03850bc90c.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3085/2674164946_fbafd7d1fb_s.jpg!":http://farm4.static.flickr.com/3085/2674164946_fbafd7d1fb.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3112/2674170628_0b00f887f5_s.jpg!":http://farm4.static.flickr.com/3112/2674170628_0b00f887f5.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3195/2674185842_67485a9eff_s.jpg!":http://farm4.static.flickr.com/3195/2674185842_67485a9eff.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3260/2674241472_86d7771260_s.jpg!":http://farm4.static.flickr.com/3260/2674241472_86d7771260.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3015/2674246248_3ca3ae824d_s.jpg!":http://farm4.static.flickr.com/3015/2674246248_3ca3ae824d.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3007/2674250646_b786e9a8f4_s.jpg!":http://farm4.static.flickr.com/3007/2674250646_b786e9a8f4.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3238/2673273151_7f9aee5acc_s.jpg!":http://farm4.static.flickr.com/3238/2673273151_7f9aee5acc.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3025/2674090100_38ba65121e_s.jpg!":http://farm4.static.flickr.com/3025/2674090100_38ba65121e.jpg
 
 h3. Turkoosi, 11.8.2007
 
-"(lightwindow)!http://farm4.static.flickr.com/3138/2673103165_422be7e34c_t.jpg!":http://farm4.static.flickr.com/3138/2673103165_422be7e34c.jpg
-"(lightwindow)!http://farm4.static.flickr.com/3189/2673922406_ba22823125_t.jpg!":http://farm4.static.flickr.com/3189/2673922406_ba22823125.jpg
-"(lightwindow)!http://farm4.static.flickr.com/3195/2673102481_8342b6721b_t.jpg!":http://farm4.static.flickr.com/3195/2673102481_8342b6721b.jpg
-"(lightwindow)!http://farm4.static.flickr.com/3278/2673921966_dd5308e863_t.jpg!":http://farm4.static.flickr.com/3278/2673921966_dd5308e863.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3138/2673103165_422be7e34c_s.jpg!":http://farm4.static.flickr.com/3138/2673103165_422be7e34c.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3189/2673922406_ba22823125_s.jpg!":http://farm4.static.flickr.com/3189/2673922406_ba22823125.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3195/2673102481_8342b6721b_s.jpg!":http://farm4.static.flickr.com/3195/2673102481_8342b6721b.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3278/2673921966_dd5308e863_s.jpg!":http://farm4.static.flickr.com/3278/2673921966_dd5308e863.jpg
 
 h3. Findustrial Metal Festival, 16.5.2007
 
-"(lightwindow)!http://farm4.static.flickr.com/3125/2673924236_84e126dcd0_t.jpg!":http://farm4.static.flickr.com/3125/2673924236_84e126dcd0.jpg
-"(lightwindow)!http://farm4.static.flickr.com/3261/2673924168_6e05c1b4fb_t.jpg!":http://farm4.static.flickr.com/3261/2673924168_6e05c1b4fb.jpg
-"(lightwindow)!http://farm4.static.flickr.com/3072/2673104423_df144d3b2e_t.jpg!":http://farm4.static.flickr.com/3072/2673104423_df144d3b2e.jpg
-"(lightwindow)!http://farm4.static.flickr.com/3071/2673104373_1e45c56924_t.jpg!":http://farm4.static.flickr.com/3071/2673104373_1e45c56924.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3125/2673924236_84e126dcd0_s.jpg!":http://farm4.static.flickr.com/3125/2673924236_84e126dcd0.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3261/2673924168_6e05c1b4fb_s.jpg!":http://farm4.static.flickr.com/3261/2673924168_6e05c1b4fb.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3072/2673104423_df144d3b2e_s.jpg!":http://farm4.static.flickr.com/3072/2673104423_df144d3b2e.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3071/2673104373_1e45c56924_s.jpg!":http://farm4.static.flickr.com/3071/2673104373_1e45c56924.jpg
 
 h3. Semifinal, 11.10.2006
 
-"(lightwindow)!http://farm4.static.flickr.com/3228/2673924040_f22f6a434a_t.jpg!":http://farm4.static.flickr.com/3228/2673924040_f22f6a434a.jpg
-"(lightwindow)!http://farm4.static.flickr.com/3188/2673923970_f84b73c26b_t.jpg!":http://farm4.static.flickr.com/3188/2673923970_f84b73c26b.jpg
-"(lightwindow)!http://farm4.static.flickr.com/3045/2673101435_0ab63c69fb_t.jpg!":http://farm4.static.flickr.com/3045/2673101435_0ab63c69fb.jpg
-"(lightwindow)!http://farm4.static.flickr.com/3012/2673101061_d08c01a5b8_t.jpg!":http://farm4.static.flickr.com/3012/2673101061_d08c01a5b8.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3228/2673924040_f22f6a434a_s.jpg!":http://farm4.static.flickr.com/3228/2673924040_f22f6a434a.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3188/2673923970_f84b73c26b_s.jpg!":http://farm4.static.flickr.com/3188/2673923970_f84b73c26b.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3045/2673101435_0ab63c69fb_s.jpg!":http://farm4.static.flickr.com/3045/2673101435_0ab63c69fb.jpg
+"(lightwindow)!http://farm4.static.flickr.com/3012/2673101061_d08c01a5b8_s.jpg!":http://farm4.static.flickr.com/3012/2673101061_d08c01a5b8.jpg
+
