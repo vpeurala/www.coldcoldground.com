@@ -1,0 +1,131 @@
+@CHARSET "ISO-8859-1";
+
+html, body {
+        background-color: #000000;
+	background-image: url("background_rendered_blue.jpg");
+	background-repeat: no-repeat;
+	background-position: 10px 80px;
+	background-attachment: fixed;
+	color: #FFFFFF;
+        font-family: arial;
+	font-size: 12px;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+
+h3 {
+	color: #FFFFFF;
+	font-family: arial;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+a:link {
+	color: #1E90FF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #1E90FF;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #1E90FF;
+	text-decoration: none;
+}
+
+a:active {
+	color: #1E90FF;
+	text-decoration: none;
+}
+
+a img {
+        border: none;
+}
+
+div.menu {
+	position: fixed;
+}
+
+div.menu a {
+	position: fixed;
+	height: 30px;
+	width: 124px;
+	left: 176px;
+	text-decoration: none;
+}
+
+div.menu a:hover {
+	background-color: #FFFFFF;
+	/* Standard CSS opacity - works on FireFox */
+	opacity: 0.2;
+	/* Opacity for IE 7 */
+	filter: alpha(opacity = 20);
+	/* Opacity for older versions of IE */
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=20);
+	/* Opacity for Mozilla */
+	-moz-opacity: 0.2;		
+}
+
+div.menu a i {
+	color: #000000;
+	font-size: small;
+	font-style: normal;
+	font-variant: small-caps;
+	position: absolute;
+}
+
+a#news { top: 270px; }
+a#events { top: 300px; }
+a#band { top: 330px; }
+a#music { top: 360px; }
+a#photos { top: 390px; }
+a#contact { top: 420px; }
+a#myspace { top: 450px; }
+
+div.contentBox {
+	position: absolute;
+	right: 20px;
+	top: 70px;
+	width: 700px;
+}
+
+div.translucentBackground {
+	position: absolute;
+	width: 660px;
+	color: #202020;
+	background-color: #202020;
+	/* Standard CSS opacity - works on FireFox */
+	opacity: 0.5;
+	/* Opacity for IE 7 */
+	filter: alpha(opacity = 50);
+	/* Opacity for older versions of IE */
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+	/* Opacity for Mozilla */
+	-moz-opacity: 0.5;
+	z-index: 1;
+        padding: 40px 20px;
+	margin: 1px;
+}
+
+div.translucentBackground a {
+	color: #202020;
+}
+
+div.translucentBackground h3 {
+	color: #202020;
+}
+
+div.opaqueText {
+	position: absolute;
+	width: 660px;
+	background-color: transparent;
+	z-index: 2;
+	visible: false;
+	padding: 40px 20px;
+	margin: 1px;
+        border: 1px solid #FFFFFF;
+}
+

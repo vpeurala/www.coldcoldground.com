@@ -1,0 +1,27 @@
+---
+title: Cold Cold Ground - Events
+filter:
+  - erb
+  - textile
+---
+h3. Upcoming gigs
+
+-
+
+h3. Past gigs
+
+Monday 7.7.2008 - On the Rocks, Helsinki (w/Neverdice)
+
+Saturday 7.6.2008 - Semifinal, Helsinki (w/man.machine.industry, Neverdice)
+
+Saturday 11.8.2007 - Turkoosi, Helsinki (w/Neverdice)
+
+Wednesday 16.5.2007 - Gloria, Helsinki (Findustrial Metal Festival)
+
+Wednesday 11.10.2006 - Semifinal, Helsinki (w/Auer)
+
+Saturday 3.6.2006 - Turkoosi, Helsinki (w/Neverdice)
+
+Saturday 18.3.2006 - Satakuntatalo, Helsinki
+
+Saturday 17.9.2005 - Factory, Helsinki (w/Auer, Try it again Sam)
