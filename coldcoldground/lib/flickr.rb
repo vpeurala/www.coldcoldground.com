@@ -3,7 +3,7 @@
 module FlickrHelper
   def flickr(url, gallery)
   	html = ""
-  	html << %(<a href="#{url}.jpg" class="lightwindow" rel="Cold Cold Ground [#{gallery}]">\n)
+  	html << %(<a href="#{url}.jpg" rel="lightbox[#{gallery}]">\n)
   	html << %(  <img src="#{url}_s.jpg" alt="" />\n)
   	html << %(</a>)
     html

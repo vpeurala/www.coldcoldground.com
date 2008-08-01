@@ -1,13 +1,13 @@
 @CHARSET "ISO-8859-1";
 
 html, body {
-        background-color: #000000;
+    background-color: #000000;
 	background-image: url("background_rendered_blue.jpg");
 	background-repeat: no-repeat;
 	background-position: 10px 80px;
 	background-attachment: fixed;
 	color: #FFFFFF;
-        font-family: arial;
+    font-family: arial;
 	font-size: 12px;
 	font-weight: normal;
 	margin: 0px;
@@ -106,7 +106,7 @@ div.translucentBackground {
 	/* Opacity for Mozilla */
 	-moz-opacity: 0.5;
 	z-index: 1;
-        padding: 40px 20px;
+    padding: 40px 20px;
 	margin: 1px;
 }
 
@@ -126,6 +126,6 @@ div.opaqueText {
 	visible: false;
 	padding: 40px 20px;
 	margin: 1px;
-        border: 1px solid #FFFFFF;
+    border: 1px solid #FFFFFF;
 }
 
