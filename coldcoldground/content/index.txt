@@ -4,6 +4,14 @@ filter:
   - erb
   - textile
 ---
+h3. 4.8.2008: Cold Cold Ground participates in Garage Countdown
+
+Cold Cold Ground is taking part in "Garage Countdown":http://www.voice.fi/gc/ music video competition held by "The Voice TV":http://www.voice.fi/. 
+
+Please watch CCG's competition video (Warden) "here":http://fi.garagecountdown.com/index.php?page=video&act=show&vid=54.
+
+If you feel really nice, you can also "register":http://fi.garagecountdown.com/index.php?page=registration&action=registration yourself as a fan and vote for CCG. Registration can be done "here":http://fi.garagecountdown.com/index.php?page=registration&action=registration.
+
 h3. 16.7.2008: Photos from On the Rocks gig
 
 Some new photos from On the Rocks gig, by Jerry Hellstr&ouml;m, are available in "photos":photos.html section.
