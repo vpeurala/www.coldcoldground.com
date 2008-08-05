@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 5.8.2008: CCG featured in Gootti.net
+
+"Gootti.net":http://www.gootti.net/, a Finnish gothic scene web portal, published an article about Cold Cold Ground's participation in "Garage Countdown":http://www.voice.fi/gc/. Read the article "here":http://www.gootti.net/cold-cold-ground-musiikkivideokilpailuun. In Finnish only.
+
 h3. 4.8.2008: Cold Cold Ground participates in Garage Countdown
 
 Cold Cold Ground is taking part in "Garage Countdown":http://www.voice.fi/gc/ music video competition held by "The Voice TV":http://www.voice.fi/. 
