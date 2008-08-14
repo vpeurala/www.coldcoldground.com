@@ -6,7 +6,7 @@ filter:
 ---
 h3. Blue Light Circus EP (February 2008) - "BUY IT FROM LEVYVIRASTO":http://www.levyvirasto.net/catalog/product_info.php?products_id=1784
 
-!{float: right;}blue_light_circus_kansi.jpg!
+!{float: right;}blue_light_circus_kansi.jpg!:http://www.levyvirasto.net/catalog/product_info.php?products_id=1784
 # "Warden":music/1_Cold_Cold_Ground_Warden.mp3
 # "Pseudo Life":music/2_Cold_Cold_Ground_Pseudo_Life.mp3
 # "Blue Light Circus":music/3_Cold_Cold_Ground_Blue_Light_Circus.mp3
