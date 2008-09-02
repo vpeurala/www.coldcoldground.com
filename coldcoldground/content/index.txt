@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 2.9.2008: Blue Light Circus review in Miasma magazine
+
+CCG's Blue Light Circus EP was reviewed in "Miasma":http://www.miasma.org/. The reviewer awarded CCG 6 points out of 10. Unfortunately, the review is in the printed magazine only, not on Miasma's website.
+
 h3. 5.8.2008: CCG featured in Gootti.net
 
 "Gootti.net":http://www.gootti.net/, a Finnish gothic scene web portal, published an article about Cold Cold Ground's participation in "Garage Countdown":http://www.voice.fi/gc/. Read the article "here":http://www.gootti.net/cold-cold-ground-musiikkivideokilpailuun. In Finnish only.
