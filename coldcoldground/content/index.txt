@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 15.9.2008: SMS voting has started in Garage Countdown
+
+You can now vote for CCG via SMS in Voice TV:n "Garage Countdown":http://www.voice.fi/gc/ competition! Send an SMS with content "GC COLD1" to number 173 172. The price is 0,95 e per message.
+
 h3. 2.9.2008: Blue Light Circus review in Miasma magazine
 
 CCG's Blue Light Circus EP was reviewed in "Miasma":http://www.miasma.org/. The reviewer awarded CCG 6 points out of 10. Unfortunately, the review is in the printed magazine only, not on Miasma's website.
