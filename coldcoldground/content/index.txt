@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 29.10.2008: Two new songs available on MySpace!
+
+Demo versions of two new songs from Cold Cold Ground's upcoming full length album, "You Will Break" and "Tension" have been uploaded to "CCG MySpace page":http://www.myspace.com/coldcoldground! Also, a new version of the old Cold Cold Ground classic "DIYM" is there now too.
+
 h3. 2.10.2008: Work on the debut album has started
 
 CCG have begun working on their debut album. A few songs have already 
