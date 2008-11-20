@@ -4,9 +4,9 @@ filter:
   - erb
   - textile
 ---
-h3. 18.11.2008: A massive industrial happening in On the Rocks next summer 
+h3. 18.11.2008: A massive industrial happening at On the Rocks next summer 
 
-Cold Cold Ground will play in "On the Rocks":http://www.ontherocks.fi/, Helsinki, on 15th of July 2009. Also on the bill: "Apples of Idun":http://www.applesofidun.com/ and "UltraNoir":http://www.ultranoir.org/. This will be a night not to miss.
+Cold Cold Ground will play at "On the Rocks":http://www.ontherocks.fi/, Helsinki, on 15th of July 2009. Also on the bill: "Apples of Idun":http://www.applesofidun.com/ and "UltraNoir":http://www.ultranoir.org/. This will be a night not to miss.
 
 h3. 29.10.2008: Two new songs available on MySpace!
 
