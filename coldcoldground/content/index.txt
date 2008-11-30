@@ -4,9 +4,15 @@ filter:
   - erb
   - textile
 ---
+h3. 30.11.2008: CCG is now a Mama Trash Family artist
+
+Cold Cold Ground has signed a promotion deal with "Mama Trash Promotions, Inc.":http://www.mamatrash.com/home.html. Other artists on Mama Trash's roster include The 69 Eyes, Apocalyptica and Deathstars, so CCG is in good company. Also, CCG's "You Will Break" is the current featured song on "Mama Trash's website":http://www.mamatrash.com/home.html.
+
+!mt-artist-banner.gif!
+
 h3. 24.11.2008: Cold Cold Ground takes over Kuopio
 
-Cold Cold Ground has confirmed a gig in "Henry's Pub":http://www.henryspub.net/kuopio/, Kuopio, on 16th of April 2009. "Apples of Idun":http://www.applesofidun.com/ and "UltraNoir":http://www.ultranoir.org/ shall also be there.
+Cold Cold Ground has confirmed a gig at "Henry's Pub":http://www.henryspub.net/kuopio/, Kuopio, on 16th of April 2009. "Apples of Idun":http://www.applesofidun.com/ and "UltraNoir":http://www.ultranoir.org/ shall also be there.
 
 h3. 18.11.2008: A massive industrial happening at On the Rocks next summer 
 
