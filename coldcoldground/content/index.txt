@@ -4,6 +4,16 @@ filter:
   - erb
   - textile
 ---
+h3. 8.12.2008: New gigs and review in LAMMAS zine
+
+Blue Light Circus EP has received a very favorable review in "LAMMAS zine":http://lammaszine.fi/demot.php?year=2008&month=11#394. In Finnish only.
+
+Also, Cold Cold Ground has secured some new gigs:
+
+* Friday 16.1.2009 at "Semifinal, Helsinki":http://www.tavastiaklubi.fi/index.php?group=3 (w/"Apples of Idun":http://www.applesofidun.com/, "Ultranoir":http://www.ultranoir.org/)
+* Thursday 19.3.2009 at "Semifinal, Helsinki":http://www.tavastiaklubi.fi/index.php?group=3 (Trash Fest II Kick Off Party, w/"HellFire Society":http://www.myspace.com/hellfiresociety, "Sonic Roots":http://www.myspace.com/sonicrootsband) 
+* Wednesday 27.5.2009 at "Dynamo, Turku":http://www.dynamoklubi.com/ (w/"Apples of Idun":http://www.applesofidun.com/, "Ultranoir":http://www.ultranoir.org/)
+
 h3. 30.11.2008: CCG is now a Mama Trash Family artist
 
 Cold Cold Ground has signed a promotion deal with "Mama Trash Promotions, Inc.":http://www.mamatrash.com/home.html. Other artists on Mama Trash's roster include The 69 Eyes, Apocalyptica and Deathstars, so CCG is in good company. Also, CCG's "You Will Break" is the current featured song on "Mama Trash's website":http://www.mamatrash.com/home.html.
