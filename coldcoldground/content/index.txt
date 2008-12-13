@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 13.12.2008: Gig at TVO, Turku
+
+CCG will play at TVO, Turku, on Saturday 18th of April 2009. Other bands on the bill: "Apples of Idun":http://www.applesofidun.com/, "Ultranoir":http://www.ultranoir.org/.
+
 h3. 8.12.2008: New gigs and review in LAMMAS zine
 
 Blue Light Circus EP has received a very favorable review in "LAMMAS zine":http://lammaszine.fi/demot.php?year=2008&month=11#394. In Finnish only.
