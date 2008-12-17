@@ -4,6 +4,12 @@ filter:
   - erb
   - textile
 ---
+h3. Music video for DIYM (December 2008)
+
+"Low-resolution version":video.html
+
+"High-resolution version":video/Diym.mp4
+
 h3. Blue Light Circus EP (February 2008) - "BUY IT FROM LEVYVIRASTO":http://www.levyvirasto.net/catalog/product_info.php?products_id=1784
 
 !{float: right;}blue_light_circus_kansi.jpg!:http://www.levyvirasto.net/catalog/product_info.php?products_id=1784
@@ -18,9 +24,9 @@ h3. Blue Light Circus EP (February 2008) - "BUY IT FROM LEVYVIRASTO":http://www.
 
 h3. Music video for Warden (February 2008)
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/GOP0VPl5cyQ&#38;rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/GOP0VPl5cyQ&#38;rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+"Low-resolution version":video.html
 
-High-resolution version "here: Warden.avi":video/Warden.avi
+"High-resolution version":video/Warden.avi
 
 h3. Custom Built EP (October 2006) - "BUY IT FROM LEVYVIRASTO":http://www.levyvirasto.net/catalog/product_info.php?products_id=2069
 

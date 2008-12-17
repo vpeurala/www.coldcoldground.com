@@ -40,6 +40,7 @@ filter:    erb
 <br />
 <br />
 </div>
+<% unless @page.no_translucent_background %>
 <div class="translucentBackground">
 <%= @content %>
 <br />
@@ -48,6 +49,7 @@ filter:    erb
 <br />
 <br />
 </div>
+<% end %>
 </div>
 </div>
 <script type="text/javascript">
