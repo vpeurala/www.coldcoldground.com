@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 22.12.2008: New songs from CCG's upcoming album available
+
+Two new songs from Cold Cold Ground's upcoming album, "You Will Break" and "Tension" have been released as high-quality mp3 files on "music":music.html page. There is also a new version of old CCG classic "DIYM".
+
 h3. 15.12.2008: DIYM music video released
 
 Cold Cold Ground's second music video, for "DIYM":http://www.youtube.com/watch?v=7MksFgdGJdQ&fmt=18, is live on YouTube. "Go watch it.":http://www.youtube.com/watch?v=7MksFgdGJdQ&fmt=18. 

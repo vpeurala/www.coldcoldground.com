@@ -4,6 +4,12 @@ filter:
   - erb
   - textile
 ---
+h3. Songs from Cold Cold Ground's upcoming album (December 2008)
+
+# "You Will Break":music/Cold_Cold_Ground_You_Will_Break.mp3
+# "Tension":music/Cold_Cold_Ground_Tension.mp3
+# "DIYM":music/Cold_Cold_Ground_DIYM.mp3
+
 h3. Music video for DIYM (December 2008)
 
 "Low-resolution version":video.html
