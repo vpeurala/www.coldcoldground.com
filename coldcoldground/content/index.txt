@@ -4,6 +4,14 @@ filter:
   - erb
   - textile
 ---
+h3. 23.12.2008: Vote for CCG in Sweden Rock competition, CCG featured in Rumba
+
+CCG is participating in Sweden Rock competition on MySpace. Vote for your favourite Electric Shock Rock band!
+
+<a href="http://www.myspace.com/swedenrockfestival" target="_blank"><img src="http://a323.ac-images.myspacecdn.com/images01/19/m_f76c9e6acb1cc9b522824b0ca7b5c282.jpg" /></a>
+
+Cold Cold Ground is also featured in the newest issue of "Rumba Magazine":http://www.rumba.fi/, in "Kiitoradalla" column. Unfortunately this feature is not available online, so you must buy the paper magazine to read it.
+
 h3. 22.12.2008: New songs from CCG's upcoming album available
 
 Two new songs from Cold Cold Ground's upcoming album, "You Will Break" and "Tension" have been released as high-quality mp3 files on "music":music.html page. There is also a new version of old CCG classic "DIYM".
