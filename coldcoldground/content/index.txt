@@ -4,11 +4,13 @@ filter:
   - erb
   - textile
 ---
+h3. 11.1.2009: Friday at Semifinal
+
+Next Friday, 16.1.2009, Cold Cold Ground will play at Semifinal, Helsinki, together with Apples of Idun and Ultranoir. Remember to come there, and bring all your friends too!
+
 h3. 23.12.2008: Vote for CCG in Sweden Rock competition, CCG featured in Rumba
 
 CCG is participating in Sweden Rock competition on MySpace. Vote for your favourite Electric Shock Rock band!
-
-<a href="http://www.myspace.com/swedenrockfestival" target="_blank"><img src="http://a323.ac-images.myspacecdn.com/images01/19/m_f76c9e6acb1cc9b522824b0ca7b5c282.jpg" /></a>
 
 Cold Cold Ground is also featured in the newest issue of "Rumba Magazine":http://www.rumba.fi/, in "Kiitoradalla" column. Unfortunately this feature is not available online, so you must buy the paper magazine to read it.
 
