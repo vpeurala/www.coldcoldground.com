@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 20.1.2009: Thanks to everybody at Semifinal
+
+The Semifinal gig last Friday was a great success. Thanks to everybody who showed up! Apples of Idun and UltraNoir were great, too.
+
 h3. 11.1.2009: Friday at Semifinal
 
 Next Friday, 16.1.2009, Cold Cold Ground will play at Semifinal, Helsinki, together with Apples of Idun and Ultranoir. Remember to come there, and bring all your friends too!

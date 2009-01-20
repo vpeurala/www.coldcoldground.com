@@ -6,8 +6,6 @@ filter:
 ---
 h3. Upcoming gigs
 
-Friday 16.1.2009 - Semifinal, Helsinki (w/Apples of Idun, UltraNoir)
-
 Thursday 19.3.2009 - Semifinal, Helsinki (Trash Fest II Kick Off Party, w/HellFire Society, Sonic Roots)
 
 Thursday 16.4.2009 - Henry's Pub, Kuopio (w/Apples of Idun, UltraNoir)
@@ -19,6 +17,8 @@ Wednesday 27.5.2009 - Dynamo, Turku (w/Apples of Idun, Ultranoir)
 Wednesday 15.7.2009 - On the Rocks, Helsinki (w/Apples of Idun, UltraNoir)
 
 h3. Past gigs
+
+Friday 16.1.2009 - Semifinal, Helsinki (w/Apples of Idun, UltraNoir)
 
 Monday 7.7.2008 - On the Rocks, Helsinki (w/Neverdice)
 
