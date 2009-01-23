@@ -1,10 +1,11 @@
 # flickr.rb
 
 module FlickrHelper
-  def flickr(url, gallery)
+  def flickr(full_size_url, gallery, tiny_size_url)
+    tiny_size_url ||= "#{full_size_url}_s"
   	html = ""
-  	html << %(<a href="#{url}.jpg" rel="lightbox[#{gallery}]">\n)
-  	html << %(  <img src="#{url}_s.jpg" alt="" />\n)
+  	html << %(<a href="#{full_size_url}.jpg" rel="lightbox[#{gallery}]">\n)
+  	html << %(  <img src="#{tiny_size_url}.jpg" alt="" />\n)
   	html << %(</a>)
     html
   end
