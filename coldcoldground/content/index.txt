@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 3.2.2009: SEXYDEATH support gigs in Turku and Tampere postponed
+
+For reasons beyond our control, SEXYDEATH has decided to postpone their Finnish tour. This means that our gigs in Tampere and Turku on 24.2. and 25.2. are cancelled. The tour might still happen later, keep watching this space for further details.
+
 h3. 24.1.2009: Two new gigs supporting SEXYDEATH
 
 Cold Cold Ground has the honour of being the support act on two gigs of "SEXYDEATH's":http://www.sexydeath.com/ Finnish tour. See "SEXYDEATH":http://www.sexydeath.com/ and CCG at Klubi, Tampere, on 24.2. and Klubi, Turku, on 25.2.
