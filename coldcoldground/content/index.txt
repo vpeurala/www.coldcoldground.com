@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 13.2.2009: CCG featured in Vanilja.net
+
+Archie Dani interviewed Cold Cold Ground for "Vanilja.net":http://www.vanilja.net/index.php?page=articles&selected_tab=show&article_id=9383. Read the whole interview (in English) "here":http://www.vanilja.net/index.php?page=articles&selected_tab=show&article_id=9383.
+
 h3. 3.2.2009: SEXYDEATH support gigs in Turku and Tampere postponed
 
 For reasons beyond our control, SEXYDEATH has decided to postpone their Finnish tour. This means that our gigs in Tampere and Turku on 24.2. and 25.2. are cancelled. The tour might still happen later, keep watching this space for further details.
