@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 4.3.2009: You Will Break in Radio Rock Starba
+
+Cold Cold Ground's "You Will Break" is participating in Radio Rock Starba competition. Go vote for CCG: "http://www.radiorock.fi/biisiarvostelut/arvostele.asp?id=443":http://www.radiorock.fi/biisiarvostelut/arvostele.asp?id=443
+
 h3. 13.2.2009: CCG featured in Vanilja.net
 
 Archie Dani interviewed Cold Cold Ground for "Vanilja.net":http://www.vanilja.net/index.php?page=articles&selected_tab=show&article_id=9383. Read the whole interview (in English) "here":http://www.vanilja.net/index.php?page=articles&selected_tab=show&article_id=9383.
