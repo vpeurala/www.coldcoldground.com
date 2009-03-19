@@ -43,13 +43,6 @@ h3. On the Rocks 7.7.2008
 <%= flickr("http://farm4.static.flickr.com/3238/2673273151_7f9aee5acc", "On the Rocks 7.7.2008", nil) %>
 <%= flickr("http://farm4.static.flickr.com/3025/2674090100_38ba65121e", "On the Rocks 7.7.2008", nil) %>
 
-h3. Turkoosi 11.8.2007
-
-<%= flickr("http://farm4.static.flickr.com/3138/2673103165_422be7e34c", "Turkoosi 11.8.2007", nil) %>
-<%= flickr("http://farm4.static.flickr.com/3189/2673922406_ba22823125", "Turkoosi 11.8.2007", nil) %>
-<%= flickr("http://farm4.static.flickr.com/3195/2673102481_8342b6721b", "Turkoosi 11.8.2007", nil) %>
-<%= flickr("http://farm4.static.flickr.com/3278/2673921966_dd5308e863", "Turkoosi 11.8.2007", nil) %>
-
 h3. Findustrial Metal Festival 16.5.2007
 
 <%= flickr("http://farm4.static.flickr.com/3125/2673924236_84e126dcd0", "Findustrial Metal Festival 16.5.2007", nil) %>
