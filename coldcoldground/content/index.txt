@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 28.3.2009: Review of Trash Fest gig
+
+"Sabine van Gameren":http://tempelores.com/?page_id=254#sabine has reviewed Trash Fest for Tempelores.com. Read the review "here":http://tempelores.com/?p=597.
+
 h3. 23.3.2009: Thanks to everybody at Trash Fest
 
 Cold Cold Ground would like to thank the audience, the other bands and the organizers of Trash Fest II. The weekend was great fun. Special thanks to Mama Trash herself!
