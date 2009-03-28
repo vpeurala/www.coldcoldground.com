@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 23.3.2009: Thanks to everybody at Trash Fest
+
+Cold Cold Ground would like to thank the audience, the other bands and the organizers of Trash Fest II. The weekend was great fun. Special thanks to Mama Trash herself!
+
 h3. 4.3.2009: You Will Break in Radio Rock Starba
 
 Cold Cold Ground's "You Will Break" is participating in Radio Rock Starba competition. Go vote for CCG: "http://www.radiorock.fi/biisiarvostelut/arvostele.asp?id=443":http://www.radiorock.fi/biisiarvostelut/arvostele.asp?id=443
