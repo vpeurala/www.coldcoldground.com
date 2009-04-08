@@ -4,7 +4,7 @@ filter:
   - erb
   - textile
 ---
-h3. Trash Fest Kick Off Party in Semifinal 19.3.2009 (Photos by Kaylin Idora)
+h3. Trash Fest II Kick Off Party at Semifinal 19.3.2009 (Photos by Kaylin Idora)
 
 <%= flickr("http://farm4.static.flickr.com/3343/3417988245_505a4ab9ab_o", "Semifinal 19.3.2009",
 "http://farm4.static.flickr.com/3343/3417988245_ba9516eee3_s") %>
