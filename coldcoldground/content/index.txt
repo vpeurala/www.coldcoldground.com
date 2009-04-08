@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 8.4.2009: Photos from Trash Fest
+
+New photos from Trash Fest, by Kaylin Idora, have been added to the photos page.
+
 h3. 28.3.2009: Review of Trash Fest gig
 
 "Sabine van Gameren":http://tempelores.com/?page_id=254#sabine has reviewed Trash Fest for Tempelores.com. Read the review "here":http://tempelores.com/?p=597.

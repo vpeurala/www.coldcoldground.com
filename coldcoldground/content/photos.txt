@@ -4,6 +4,41 @@ filter:
   - erb
   - textile
 ---
+h3. Trash Fest Kick Off Party in Semifinal 19.3.2009 (Photos by Kaylin Idora)
+
+<%= flickr("http://farm4.static.flickr.com/3343/3417988245_505a4ab9ab_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3343/3417988245_ba9516eee3_s") %>
+<%= flickr("http://farm4.static.flickr.com/3370/3418798004_b2477b9cef_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3370/3418798004_2b517453e1_s") %>
+<%= flickr("http://farm4.static.flickr.com/3551/3417988511_177bfe27d8_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3551/3417988511_3393608784_s") %>
+<%= flickr("http://farm4.static.flickr.com/3612/3417988597_b9e3f95c0a_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3612/3417988597_609e64234f_s") %>
+<%= flickr("http://farm4.static.flickr.com/3602/3418798316_bda297b9a7_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3602/3418798316_1891e1ec7d_s") %>
+<%= flickr("http://farm4.static.flickr.com/3410/3417988761_e3319d41a9_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3410/3417988761_ee561cda12_s") %>
+<%= flickr("http://farm4.static.flickr.com/3615/3418798652_60788f5087_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3615/3418798652_1e93b85e02_s") %>
+<%= flickr("http://farm4.static.flickr.com/3363/3418798766_cb59bc06f7_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3363/3418798766_863415c394_s") %>
+<%= flickr("http://farm4.static.flickr.com/3648/3417989227_ef049d142c_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3648/3417989227_44ab02d85b_s") %>
+<%= flickr("http://farm4.static.flickr.com/3642/3418799128_62bd77c49b_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3642/3418799128_c85c4929a4_s") %>
+<%= flickr("http://farm4.static.flickr.com/3304/3417989439_0609042f93_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3304/3417989439_fc7641a688_s") %>
+<%= flickr("http://farm4.static.flickr.com/3266/3418799256_bf6231eab3_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3266/3418799256_514010fda2_s") %>
+<%= flickr("http://farm4.static.flickr.com/3380/3418799782_9c3e004290_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3380/3418799782_04f557c36c_s") %>
+<%= flickr("http://farm4.static.flickr.com/3658/3417990091_d0b86d3c27_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3658/3417990091_1730a9de2a_s") %>
+<%= flickr("http://farm4.static.flickr.com/3321/3418799946_f26d96e6b3_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3321/3418799946_4cf48bbb05_s") %>
+<%= flickr("http://farm4.static.flickr.com/3329/3418800014_f4d057a3b5_o", "Semifinal 19.3.2009",
+"http://farm4.static.flickr.com/3329/3418800014_0595eda565_s") %>
+
 h3. Semifinal 16.1.2009 (Photos by "Archie D":http://www.myspace.com/adsuperia)
 
 <%= flickr("http://farm4.static.flickr.com/3420/3219817233_4eab0fbff0_o", "Semifinal 16.1.2009", "http://farm4.static.flickr.com/3420/3219817233_a2310bcc9c_s") %>
