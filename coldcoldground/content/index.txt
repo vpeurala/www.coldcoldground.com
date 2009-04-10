@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 10.4.2009: Gigs in Kuopio and Turku
+
+Next week CCG is going to have two memorable gigs with Apples of Idun and Ultranoir in Kuopio (Thu 16.4.) and Turku (Sat 18.4.). You shall not miss them! CCG collective would also like to congratulate Apples of Idun on their just released album.
+
 h3. 8.4.2009: Photos from Trash Fest
 
 New photos from Trash Fest, by Kaylin Idora, have been added to the photos page.
