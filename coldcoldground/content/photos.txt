@@ -4,6 +4,19 @@ filter:
   - erb
   - textile
 ---
+h3. Promo pictures by Okko Oinonen, April 2009
+
+<%= flickr("http://farm4.static.flickr.com/3412/3476197035_8e4cd4c724_b", "Promo",
+"http://farm4.static.flickr.com/3412/3476197035_8e4cd4c724_s") %>
+<%= flickr("http://farm4.static.flickr.com/3302/3476977680_ffa9615089_b", "Promo",
+"http://farm4.static.flickr.com/3302/3476977680_ffa9615089_s") %>
+<%= flickr("http://farm4.static.flickr.com/3396/3476159623_c22e2a70a8_b", "Promo",
+"http://farm4.static.flickr.com/3396/3476159623_c22e2a70a8_s") %>
+<%= flickr("http://farm4.static.flickr.com/3359/3476177517_348cbcc83e_b", "Promo",
+"http://farm4.static.flickr.com/3359/3476177517_348cbcc83e_s") %>
+<%= flickr("http://farm4.static.flickr.com/3400/3476995746_df6a0148f7_b", "Promo",
+"http://farm4.static.flickr.com/3400/3476995746_df6a0148f7_s") %>
+
 h3. Trash Fest II Kick Off Party at Semifinal 19.3.2009 (Photos by Kaylin Idora)
 
 <%= flickr("http://farm4.static.flickr.com/3343/3417988245_505a4ab9ab_o", "Semifinal 19.3.2009",

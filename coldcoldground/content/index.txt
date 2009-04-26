@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 26.4.2009: New promo pictures by Okko Oinonen
+
+Mr. Okko Oinonen ("www.okkooinonen.com":http://www.okkooinonen.com/) has produced beautiful new promo pictures of Cold Cold Ground. See them on "photos":photos.html page. Big thanks to Okko!
+
 h3. 20.4.2009: Thank you, Kuopio and Turku
 
 CCG's mini-tour in Kuopio and Turku was a success. Big thanks to everybody involved: the audience, the personnel of Henry's Pub and TVO, and the other bands (Apples of Idun and Ultranoir).
