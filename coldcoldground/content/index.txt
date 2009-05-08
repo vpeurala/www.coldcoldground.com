@@ -4,6 +4,20 @@ filter:
   - erb
   - textile
 ---
+h3. 8.5.2009: CCG's debut album will be produced by Mr. Kärtsy Hatakka
+
+Cold Cold Ground is happy to announce great news regarding CCG's debut album.
+
+The album will be produced by Mr. Kärtsy Hatakka, the leader and primus motor of the band Waltari, who has become recognized as one of the most remarkable faces in the history of Finnish rock music.
+
+Besides Waltari, Kärtsy, as a full time musician since 1991, has also had a lot of other remarkable musical engagements here and there in different fields of music, including a pioneering soundtrack work for legendary Finnish computer game Max Payne (parts 1 and 2).
+
+The songs have been written, the pre-production has been started and there’s going to be some busy months ahead. Actual recordings will take place in the end of the summer and fall of 2009.
+
+Cold Cold Ground is very excited about this co-operation and it has become very clear to all involved that the debut album is going to be a blast!
+
+Cold Cold Ground is still looking for a label, contact at band@coldcoldground.com
+
 h3. 26.4.2009: New promo pictures by Okko Oinonen
 
 Mr. Okko Oinonen ("www.okkooinonen.com":http://www.okkooinonen.com/) has produced beautiful new promo pictures of Cold Cold Ground. See them on "photos":photos.html page. Big thanks to Okko!
