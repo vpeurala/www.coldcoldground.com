@@ -4,6 +4,12 @@ filter:
   - erb
   - textile
 ---
+h3. 1.7.2009: Debut album recordings start tomorrow
+
+Cold Cold Ground will start recording their debut album tomorrow. Recordings will be done during the summer and autumn. The album is produced by Kärtsy Hatakka and recorded by Pekka Laine. 
+
+CCG is still looking for a suitable record company to release the album when it's done.
+
 h3. 14.6.2009: Thanks to everybody at Nosturi
 
 Cold Cold Ground played yesterday at Nosturi, Helsinki, supporting KMFDM. Big thanks to everybody at the venue: the audience, the organizers, the technical crew and KMFDM themselves. Special thanks to Tonmi Lillman for great drumming.
