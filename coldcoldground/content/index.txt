@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 10.9.2009: Debut album recordings almost done
+
+Recordings of CCG's debut album are almost over. There's still some minor vocal doublings and backing vocals to be done. Mixing the album (with 10 songs) will start in a couple of weeks, and if everything stays on schedule you should be able to hear some new shit in the near future. 
+
 h3. 1.7.2009: Debut album recordings start tomorrow
 
 Cold Cold Ground will start recording their debut album tomorrow. Recordings will be done during the summer and autumn. The album is produced by Kärtsy Hatakka and recorded by Pekka Laine. 
