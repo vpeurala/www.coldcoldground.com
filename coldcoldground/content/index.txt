@@ -4,6 +4,12 @@ filter:
   - erb
   - textile
 ---
+h3. 12.10.2009: Debut album almost mixed, still looking for a record label
+
+CCG's debut album is almost mixed, a few final touches are still missing.
+
+Cold Cold Ground is still looking for a record label to release the album when it's ready. All interested parties: now would be a good time to contact us!
+
 h3. 10.9.2009: Debut album recordings almost done
 
 Recordings of CCG's debut album are almost over. There's still some minor vocal doublings and backing vocals to be done. Mixing the album (with 10 songs) will start in a couple of weeks, and if everything stays on schedule you should be able to hear some new shit in the near future. 
