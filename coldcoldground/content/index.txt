@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 22.10.2009: Gig at Dante's Highlight confirmed
+
+Cold Cold Ground will play at Dante's Highlight on Friday 26.2.2010. Be there!
+
 h3. 12.10.2009: Debut album almost mixed, still looking for a record label
 
 CCG's debut album is almost mixed, a few final touches are still missing.
