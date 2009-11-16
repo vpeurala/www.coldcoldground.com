@@ -4,6 +4,32 @@ filter:
   - erb
   - textile
 ---
+h3. 16.11.2009: Debut album songs announced
+
+Cold Cold Ground's debut album will include the following songs:
+
+1. You Will Break
+
+2. Pigs
+
+3. Warden
+
+4. Doves
+
+5. Pseudo Life
+
+6. DIYM
+
+7. Tension
+
+8. Salesman In Me
+
+9. Electrodes In The Head
+
+10. Disintegrating
+
+CCG was also shooting a video for "You Will Break" last weekend. The results can be seen in a few weeks.
+
 h3. 22.10.2009: Gig at Dante's Highlight confirmed
 
 Cold Cold Ground will play at Dante's Highlight on Friday 26.2.2010. Be there!
