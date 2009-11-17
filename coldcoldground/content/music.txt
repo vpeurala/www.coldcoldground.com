@@ -19,9 +19,9 @@ h3. Music video for DIYM (December 2008)
 h3. Blue Light Circus EP (February 2008) - "BUY IT FROM LEVYVIRASTO":http://www.levyvirasto.net/catalog/product_info.php?products_id=1784
 
 !{float: right;}blue_light_circus_kansi.jpg!:http://www.levyvirasto.net/catalog/product_info.php?products_id=1784
-# "Warden":music/1_Cold_Cold_Ground_Warden.mp3
-# "Pseudo Life":music/2_Cold_Cold_Ground_Pseudo_Life.mp3
-# "Blue Light Circus":music/3_Cold_Cold_Ground_Blue_Light_Circus.mp3
+# Warden
+# Pseudo Life
+# Blue Light Circus
 <br />
 <br />
 <br />
@@ -37,11 +37,11 @@ h3. Music video for Warden (February 2008)
 h3. Custom Built EP (October 2006) - "BUY IT FROM LEVYVIRASTO":http://www.levyvirasto.net/catalog/product_info.php?products_id=2069
 
 !{float: right;}custom_built_kansi.jpg!:http://www.levyvirasto.net/catalog/product_info.php?products_id=2069
-# "Present Day Hate":music/1_Cold_Cold_Ground_Present_Day_Hate.mp3
-# "Dice Man":music/2_Cold_Cold_Ground_Dice_Man.mp3
-# "Custom Built":music/3_Cold_Cold_Ground_Custom_Built.mp3
-# "DIYM":music/4_Cold_Cold_Ground_DIYM.mp3
-# "Narcist":music/5_Cold_Cold_Ground_Narcist.mp3
+# Present Day Hate
+# Dice Man
+# Custom Built
+# DIYM
+# Narcist
 <br />
 <br />
 <br />
@@ -51,7 +51,7 @@ h3. Custom Built EP (October 2006) - "BUY IT FROM LEVYVIRASTO":http://www.levyvi
 h3. Lamb EP (September 2005)
 
 !{float: right;}lamb_kansi.jpg!
-# "Lamb":music/1_Cold_Cold_Ground_Lamb.mp3
+# Lamb
 # Fulfilled
 # Transhumanist
 <br />
