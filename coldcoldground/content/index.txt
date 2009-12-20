@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 20.12.2009: New version of Warden music video released
+
+An updated version of Warden music video can now be seen on "YouTube":http://www.youtube.com/watch?v=ae6Ircwqg9w&feature=channel. The music you hear on this new version is the album version of this song, to be released in 2010.
+
 h3. 1.12.2009: Gig with V for Violence at Bar Loose, 30.12.2009
 
 Cold Cold Ground will play at Bar Loose, Helsinki, on 30th of December, supporting "V for Violence":http://vforviolence.com/. Welcome there everybody!
