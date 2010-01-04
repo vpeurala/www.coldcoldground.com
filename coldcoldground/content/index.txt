@@ -4,6 +4,10 @@ filter:
   - erb
   - textile
 ---
+h3. 1.1.2009: New songs up on MySpace
+
+Three new Cold Cold Ground songs from the upcoming album - Pigs, Disintegrating and You Will Break (album version) - plus Fleischwerk's amazing DIYM remix are now available on our "MySpace profile":http://www.myspace.com/coldcoldground. Enjoy!
+
 h3. 30.12.2009: Sneak peek of new album material on 1.1.2010
 
 Bright! Tight! Perverted! Smashing! - The wait is almost over for the highly anticipated debut album from Helsinki, Finland's Cold Cold Ground! Starting January 1st, delight your senses with a sneak peek of what is to come as Cold Cold Ground shares a few NEW songs on their MySpace profile and will be featured on "mamatrash.com":http://mamatrash.com!

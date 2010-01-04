@@ -6,8 +6,6 @@ filter:
 ---
 h3. Upcoming gigs
 
-Wednesday 30.12.2009 - Bar Loose, Helsinki (w/V for Violence)
-
 Friday 5.2.2010 - TVO, Turku (w/I Was a Teenage Satan Worshipper)
 
 Friday 26.2.2010 - Dante's Highlight, Helsinki
@@ -15,6 +13,8 @@ Friday 26.2.2010 - Dante's Highlight, Helsinki
 Saturday 6.3.2010 - Nosturi, Helsinki (Trash Fest III)
 
 h3. Past gigs
+
+Wednesday 30.12.2009 - Bar Loose, Helsinki (w/V for Violence)
 
 Wednesday 15.7.2009 - On the Rocks, Helsinki (w/Apples of Idun, UltraNoir)
 
