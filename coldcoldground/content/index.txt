@@ -4,6 +4,12 @@ filter:
   - erb
   - textile
 ---
+h3. 10.1.2009: Hauptmann D interview on Gothic International
+
+An interview of Hauptmann D (in English) has been published on "Gothic International":http://www.gothicinternational.com/?p=272. Enjoy!
+
+Also, there is a review of CCG's gig with V for Violence in "Tempelores Magazine":http://tempelores.com/?p=1593#more-1593.
+
 h3. 1.1.2009: New songs up on MySpace
 
 Three new Cold Cold Ground songs from the upcoming album - Pigs, Disintegrating and You Will Break (album version) - plus Fleischwerk's amazing DIYM remix are now available on our "MySpace profile":http://www.myspace.com/coldcoldground. Enjoy!
