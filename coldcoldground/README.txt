@@ -4,3 +4,4 @@ VERSIONS OF USED SOFTWARE
 - webby 0.9.3
 - rake 0.8.3
 - RedCloth 3.0.4 (4.x versions don't work as I like, they introduce extra <br /> tags everywhere!)
+- lessc 1.2.21 (gem install less)
