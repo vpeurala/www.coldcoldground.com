@@ -4,15 +4,17 @@ filter:
   - erb
   - textile
 ---
+h3. 5.3.2010: Trash Fest III starts today at Nosturi!
+
+Today, Friday the 5th of March, Trash Fest III starts at Nosturi. Cold Cold Ground will play tomorrow on Saturday. Welcome!
+
 h3. 1.3.2010: CCG to warm up for Turmion Kätilöt at Tavastia, 19.3.2010!
 
 "Turmion Kätilöt":http://turmion-katilot.info/ has chosen Cold Cold Ground as their warm up act at Tavastia, 19th of March. Be there!
 
 h3. 24.2.2010: Cold Cold Ground will tear up Dante's Highlight next Friday
 
-On Friday, 26th of February, Cold Cold Ground and the inimitable "THE iNSULT THAT MADE A MAN OUT OF MAC":http://www.insult.fi/ are going to perform at Dante's Highlight, Helsinki. Watch the video below for a taste of CCG's live madness.
-
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/fy86uvo_Zv8&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/fy86uvo_Zv8&color1=0xb1b1b1&color2=0xcfcfcf&hl=en_US&feature=player_embedded&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="425" height="344"></embed></object>
+On Friday, 26th of February, Cold Cold Ground and the inimitable "THE iNSULT THAT MADE A MAN OUT OF MAC":http://www.insult.fi/ are going to perform at Dante's Highlight, Helsinki. 
 
 h3. 28.1.2010: Cold Cold Ground on Felixstowe Radio today!
 
@@ -195,8 +197,6 @@ Also, Cold Cold Ground has secured some new gigs:
 h3. 30.11.2008: CCG is now a Mama Trash Family artist
 
 Cold Cold Ground has signed a promotion deal with "Mama Trash Promotions, Inc.":http://www.mamatrash.com/home.html. Other artists on Mama Trash's roster include The 69 Eyes, Apocalyptica and Deathstars, so CCG is in good company. Also, CCG's "You Will Break" is the current featured song on "Mama Trash's website":http://www.mamatrash.com/home.html.
-
-!mt-artist-banner.gif!
 
 h3. 24.11.2008: Cold Cold Ground takes over Kuopio
 
