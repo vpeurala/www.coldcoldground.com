@@ -3,20 +3,18 @@ body {
   padding: 0;
   border: 0;
   width: 100%;
-  background: #ffffff;
   min-width: 600px;
   font-size: 90%;
-  background-color: #000000;
   background-image: url("background.jpg");
   background-repeat: no-repeat;
   background-position: 10px 80px;
   background-attachment: fixed;
   color: #ffffff;
 }
-a { color: #336699; }
+a { color: #aaaa00; }
 a:hover {
-  color: #ffffff;
-  background: #336699;
+  color: #ffff00;
+  background-color: #333333;
   text-decoration: none;
 }
 h1, h2, h3 {
@@ -27,17 +25,21 @@ p {
   margin: 0.4em 0 0.8em 0;
   padding: 0;
 }
-img { margin: 10px 0 5px; }
+img {
+  margin: 10px 0 5px;
+  padding: 0;
+}
 #header {
   clear: both;
   float: left;
   width: 100%;
+  background-color: #000000;
 }
 #header { border-bottom: 1px solid #000000; }
 #header h1 { text-align: center; }
 #layoutdims {
   clear: both;
-  background: #eeeeee;
+  background-color: #000000;
   border-top: 4px solid #000000;
   margin: 0;
   padding: 6px 15px;
@@ -71,7 +73,7 @@ img { margin: 10px 0 5px; }
 .rightmenu { background: #222222; }
 .rightmenu .colleft {
   right: 30%;
-  background: #ffffff;
+  background: #000000;
 }
 .rightmenu .col1 {
   width: 66%;
@@ -94,7 +96,7 @@ img { margin: 10px 0 5px; }
 #centeredmenu {
   float: left;
   width: 100%;
-  background: #ffffff;
+  background-color: #000000;
   border-bottom: 4px solid #000000;
   overflow: hidden;
   position: relative;
@@ -122,22 +124,11 @@ img { margin: 10px 0 5px; }
   display: block;
   margin: 0 0 0 1px;
   padding: 3px 10px;
-  background: #dddddd;
+  background-color: #000000;
   color: #000000;
   text-decoration: none;
   line-height: 1.3em;
 }
-#centeredmenu ul li a:hover {
-  background: #336699;
-  color: #ffffff;
-}
-#centeredmenu ul li a.active {
-  color: #ffffff;
-  background: #000000;
-  font-weight: bold;
-}
-#centeredmenu ul li a.active:hover {
-  color: #ffffff;
-  background: #000000;
-  font-weight: bold;
-}
+#centeredmenu ul li a:hover { color: #ffff00; }
+#centeredmenu ul li a.active { font-weight: bold; }
+#centeredmenu ul li a.active:hover { font-weight: bold; }

@@ -6,23 +6,21 @@ body {
     padding:0;
     border:0;            /* This removes the border around the viewport in old versions of IE */
     width:100%;
-    background:#fff;
     min-width:600px;        /* Minimum width of layout - remove line if not required */
     /* The min-width property does not work in old versions of Internet Explorer */
     font-size:90%;
-    background-color: #000000;
     background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-position: 10px 80px;
     background-attachment: fixed;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 a {
-    color:#369;
+    color:#aaaa00;
 }
 a:hover {
-    color:#fff;
-    background:#369;
+    color:#ffff00;
+    background-color: #333333;
     text-decoration:none;
 }
 h1, h2, h3 {
@@ -35,12 +33,14 @@ p {
 }
 img {
     margin:10px 0 5px;
+    padding: 0;
 }
 /* Header styles */
 #header {
     clear:both;
     float:left;
     width:100%;
+    background-color: #000000;
 }
 #header {
     border-bottom:1px solid #000;
@@ -51,7 +51,7 @@ img {
 /* 'widths' sub menu */
 #layoutdims {
     clear:both;
-    background:#eee;
+    background-color:#000000;
     border-top:4px solid #000;
     margin:0;
     padding:6px 15px;         /* !important */
@@ -96,7 +96,7 @@ img {
 }
 .rightmenu .colleft {
     right:@right_column_width;            /* right column width */
-    background:#fff;        /* left column background colour */
+    background:#000000;        /* left column background colour */
 }
 .rightmenu .col1 {
     width:@left_column_width - (@column_padding * 2);            /* left column content width (left column width minus left and right padding) */
@@ -124,7 +124,7 @@ http://matthewjamestaylor.com/blog/beautiful-css-centered-menus-no-hacks-full-cr
 #centeredmenu {
     float:left;
     width:100%;
-    background:#fff;
+    background-color:#000000;
     border-bottom:4px solid #000;
     overflow:hidden;
     position:relative;
@@ -152,18 +152,15 @@ http://matthewjamestaylor.com/blog/beautiful-css-centered-menus-no-hacks-full-cr
     display:block;
     margin:0 0 0 1px;
     padding:3px 10px;
-    background:#ddd;
+    background-color:#000000;
     color:#000;
     text-decoration:none;
     line-height:1.3em;
 }
 #centeredmenu ul li a:hover {
-    background:#369;
-    color:#fff;
+    color:#ffff00;
 }
 #centeredmenu ul li a.active,
 #centeredmenu ul li a.active:hover {
-    color:#fff;
-    background:#000;
     font-weight:bold;
 }
