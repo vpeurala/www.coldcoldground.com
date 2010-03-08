@@ -1,0 +1,55 @@
+findServiceByDesktopPath: searchproviders/strigi.desktop not found
+"/usr/bin/konqueror(2603)" Error in thread 3078277488 : "org.freedesktop.DBus.Error.ServiceUnknown - The name org.kde.nepomuk.services.nepomukstorage was not provided by any .service files"
+"/usr/bin/konqueror(2603)" Error in thread 3078277488 : "QLocalSocket::connectToServer: Invalid name"
+QPainter::begin: Widget painting can only begin as a result of a paintEvent
+QPainter::translate: Painter not active
+QPainter::setClipRect: Painter not active
+QPainter::setPen: Painter not active
+QPainter::worldTransform: Painter not active
+QPainter::setFont: Painter not active
+QPainter::fontMetrics: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::setFont: Painter not active
+QPainter::fontMetrics: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::setFont: Painter not active
+QPainter::fontMetrics: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::setFont: Painter not active
+QPainter::fontMetrics: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::setFont: Painter not active
+QPainter::fontMetrics: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::setFont: Painter not active
+QPainter::fontMetrics: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::setFont: Painter not active
+QPainter::fontMetrics: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::setFont: Painter not active
+QPainter::fontMetrics: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::setFont: Painter not active
+QPainter::fontMetrics: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::setFont: Painter not active
+QPainter::fontMetrics: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+QPainter::setFont: Painter not active
+QPainter::fontMetrics: Painter not active
+QPainter::setPen: Painter not active
+QPainter::setBrush: Painter not active
+findServiceByDesktopPath: searchproviders/strigi.desktop not found
+"/usr/bin/konqueror(2673)" Error in thread 3077429616 : "org.freedesktop.DBus.Error.ServiceUnknown - The name org.kde.nepomuk.services.nepomukstorage was not provided by any .service files"
+"/usr/bin/konqueror(2673)" Error in thread 3077429616 : "QLocalSocket::connectToServer: Invalid name"
