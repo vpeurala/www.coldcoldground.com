@@ -7,8 +7,9 @@ body {
   font-size: 90%;
   background-image: url("background.jpg");
   background-repeat: no-repeat;
-  background-position: 10px 80px;
+  background-position: 0px 0px;
   background-attachment: fixed;
+  background-color: #000000;
   color: #ffffff;
 }
 a { color: #aaaa00; }
@@ -33,7 +34,6 @@ img {
   clear: both;
   float: left;
   width: 100%;
-  background-color: #000000;
 }
 #header { border-bottom: 1px solid #000000; }
 #header h1 { text-align: center; }
@@ -130,5 +130,11 @@ img {
   line-height: 1.3em;
 }
 #centeredmenu ul li a:hover { color: #ffff00; }
-#centeredmenu ul li a.active { font-weight: bold; }
-#centeredmenu ul li a.active:hover { font-weight: bold; }
+#centeredmenu ul li a.active {
+  font-weight: bold;
+  color: #ffffff;
+}
+#centeredmenu ul li a.active:hover {
+  font-weight: bold;
+  color: #ffffff;
+}
