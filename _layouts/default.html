@@ -19,13 +19,13 @@
 	<h1><img src="banner.jpg" alt="Cold Cold Ground"></img></h1>
 	<div id="centeredmenu">
 	<ul>
-		<li><a href="index.html"><img src="menu_news.gif" alt="News" /></a></li>
-		<li><a href="events.html" class="active"><img src="menu_events.gif" alt="Events" /></a></li>
-		<li><a href="band.html"><img src="menu_band.gif" alt="Band" /></a></li>
-		<li><a href="music.html"><img src="menu_music.gif" alt="Music" /></a></li>
-		<li><a href="video.html"><img src="menu_video.gif" alt="Video" /></a></li>
-		<li><a href="photos.html"><img src="menu_photos.gif" alt="Photos" /></a></li>
-		<li><a href="contact.html"><img src="menu_contact.gif" alt="Contact" /></a></li>
+		<li><a href="index.html" {% if page.active == "news" %} class="selected" {% endif %}><img src="menu_news.gif" alt="News" /></a></li>
+		<li><a href="events.html" {% if page.active == "events" %} class="selected" {% endif %}><img src="menu_events.gif" alt="Events" /></a></li>
+		<li><a href="band.html" {% if page.active == "band" %} class="selected" {% endif %}><img src="menu_band.gif" alt="Band" /></a></li>
+		<li><a href="music.html" {% if page.active == "music" %} class="selected" {% endif %}><img src="menu_music.gif" alt="Music" /></a></li>
+		<li><a href="video.html" {% if page.active == "video" %} class="selected" {% endif %}><img src="menu_video.gif" alt="Video" /></a></li>
+		<li><a href="photos.html" {% if page.active == "photos" %} class="selected" {% endif %}><img src="menu_photos.gif" alt="Photos" /></a></li>
+		<li><a href="contact.html" {% if page.active == "contact" %} class="selected" {% endif %}><img src="menu_contact.gif" alt="Contact" /></a></li>
 		<li><a href="http://www.myspace.com/coldcoldground"><img src="menu_myspace.gif" alt="MySpace" /></a></li>
 		<li><a href="http://www.facebook.com/pages/Cold-Cold-Ground/10293065902"><img src="menu_facebook.gif" alt="Facebook" /></a></li>
 		<li><a href="http://www.youtube.com/nowrotteninside"><img src="menu_youtube.gif" alt="YouTube" /></a></li>

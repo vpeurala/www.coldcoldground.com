@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cold Cold Ground - Photos
+active: photos
 ---
 h3. Promo pictures by Okko Oinonen, April 2009
 

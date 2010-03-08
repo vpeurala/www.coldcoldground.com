@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cold Cold Ground - Music
+active: music
 ---
 h3. Demo versions of songs from Cold Cold Ground's upcoming album (December 2008)
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cold Cold Ground - Events
+active: events
 ---
 h3. Upcoming gigs
 

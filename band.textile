@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cold Cold Ground - Band
+active: band
 ---
 
 Cold Cold Ground has been working under this name since the start of year 2004, although the seeds of the band were sown by Hauptmann D many years earlier. Cold Cold Ground plays Electric Shock Rock with disturbing visuals and energetic live performances. 

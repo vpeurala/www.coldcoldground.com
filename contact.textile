@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cold Cold Ground - Contact
+active: contact
 ---
 Email: band@coldcoldground.com
 

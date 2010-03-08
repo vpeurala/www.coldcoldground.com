@@ -48,6 +48,13 @@ img {
 #header h1 {
 	text-align: center;
 }
+#header a,
+#header a:hover,
+#header a:visited,
+#header a:active {
+        color: #000000;
+        text-decoration: none;
+}
 /* 'widths' sub menu */
 #layoutdims {
     clear:both;
@@ -153,15 +160,14 @@ http://matthewjamestaylor.com/blog/beautiful-css-centered-menus-no-hacks-full-cr
     margin:0 0 0 1px;
     padding:3px 10px;
     background-color:#000000;
-    color:#000;
+    color:#000000;
     text-decoration:none;
     line-height:1.3em;
 }
 #centeredmenu ul li a:hover {
     color:#ffff00;
 }
-#centeredmenu ul li a.active,
-#centeredmenu ul li a.active:hover {
-    font-weight:bold;
+#centeredmenu ul li a.selected,
+#centeredmenu ul li a.selected:hover {
     color:#ffffff;
 }

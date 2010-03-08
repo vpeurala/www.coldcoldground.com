@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cold Cold Ground - History 
+active: news
 ---
 h1. All news since the beginning of time (January 2004)
 

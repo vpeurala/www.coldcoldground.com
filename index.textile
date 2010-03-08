@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cold Cold Ground - News
+active: news
 ---
 h3. 5.3.2010: Trash Fest III starts today at Nosturi!
 

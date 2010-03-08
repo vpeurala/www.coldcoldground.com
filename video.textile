@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cold Cold Ground - Video
+active: video
 ---
 h3. Music video for Warden (December 2009)
 
