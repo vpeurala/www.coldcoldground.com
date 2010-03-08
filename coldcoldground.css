@@ -78,7 +78,7 @@ img {
 	position: relative;
 	padding: 0 0 1em 0;
 	overflow: hidden;
-	background-color: #aaa;
+	background-color: #000;
 }
 .col2,
 .col3 {
@@ -89,7 +89,7 @@ img {
 }
 /* 2 Column (right menu) settings */
 .rightmenu {
-    background:#eee;        /* right column background colour */
+    background:#222;        /* right column background colour */
 }
 .rightmenu .colleft {
     right:25%;            /* right column width */
