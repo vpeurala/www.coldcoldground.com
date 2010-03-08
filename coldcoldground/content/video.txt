@@ -1,0 +1,22 @@
+---
+title: Cold Cold Ground - Video
+filter:
+  - erb
+  - textile
+no_translucent_background: true
+---
+h3. Music video for Warden (December 2009)
+
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ae6Ircwqg9w&hl=en&fs=1&fmt=18"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ae6Ircwqg9w&hl=en&fs=1&fmt=18" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+High-resolution version "here: Warden.avi":video/Warden.avi
+
+h3. Music video for DIYM (December 2008)
+
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/7MksFgdGJdQ&hl=en&fs=1&fmt=18"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7MksFgdGJdQ&hl=en&fs=1&fmt=18" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+
+High-resolution version "here: Diym.mp4":video/Diym.mp4
+
+<br />
+<br />
+<br />

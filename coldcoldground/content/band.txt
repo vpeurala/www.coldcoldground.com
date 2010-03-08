@@ -1,0 +1,40 @@
+---
+title: Cold Cold Ground - Band
+filter:
+  - erb
+  - textile
+---
+
+Cold Cold Ground has been working under this name since the start of year 2004, although the seeds of the band were sown by Hauptmann D many years earlier. Cold Cold Ground plays Electric Shock Rock with disturbing visuals and energetic live performances. 
+
+h3. Current members
+
+*Hauptmann D* - Vocals, programming
+
+<a href="http://farm4.static.flickr.com/3335/3476197743_68d5c906c1_o.jpg" rel="lightbox">
+  <img src="http://farm4.static.flickr.com/3335/3476197743_42a994e924_m.jpg" alt="Hauptmann D" />
+</a>
+
+*Mr. Bunny* - Guitar, programming
+
+<a href="http://farm4.static.flickr.com/3649/3476197999_c1cf6e78f5_o.jpg" rel="lightbox">
+  <img src="http://farm4.static.flickr.com/3649/3476197999_47fa704c9c_m.jpg" alt="Mr. Bunny" />
+</a>
+
+*Nooz* - Bass
+
+<a href="http://farm4.static.flickr.com/3624/3476197547_4063153d93_o.jpg" rel="lightbox">
+  <img src="http://farm4.static.flickr.com/3624/3476197547_2fa8fb673f_m.jpg" alt="Nooz" />
+</a>
+
+*Monsieur Beau* - Drums
+
+<a href="http://farm4.static.flickr.com/3542/3476197311_1c69c6e949_o.jpg" rel="lightbox">
+  <img src="http://farm4.static.flickr.com/3542/3476197311_fae6b848c4_m.jpg" alt="Monsieur Beau" />
+</a>
+
+h3. Ex-members
+
+*John Paul Jr.* - Drums and sampler (2004-2006)
+
+*Henrica* - Drums (2006)

@@ -1,0 +1,11 @@
+---
+title: Cold Cold Ground - Contact
+filter:
+  - erb
+  - textile
+---
+Email: band@coldcoldground.com
+
+Www: www.coldcoldground.com
+
+Myspace: www.myspace.com/coldcoldground
