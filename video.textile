@@ -1,9 +1,6 @@
 ---
+layout: default
 title: Cold Cold Ground - Video
-filter:
-  - erb
-  - textile
-no_translucent_background: true
 ---
 h3. Music video for Warden (December 2009)
 

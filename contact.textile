@@ -1,8 +1,6 @@
 ---
+layout: default
 title: Cold Cold Ground - Contact
-filter:
-  - erb
-  - textile
 ---
 Email: band@coldcoldground.com
 

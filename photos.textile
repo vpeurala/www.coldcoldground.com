@@ -1,8 +1,6 @@
 ---
+layout: default
 title: Cold Cold Ground - Photos
-filter:
-  - erb
-  - textile
 ---
 h3. Promo pictures by Okko Oinonen, April 2009
 
