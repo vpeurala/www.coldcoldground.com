@@ -1,129 +1,166 @@
-html, body {
+/*
+From http://matthewjamestaylor.com/blog/perfect-2-column-right-menu.htm
+*/
+body {
+    margin:0;
+    padding:0;
+    border:0;            /* This removes the border around the viewport in old versions of IE */
+    width:100%;
+    background:#fff;
+    min-width:600px;        /* Minimum width of layout - remove line if not required */
+    /* The min-width property does not work in old versions of Internet Explorer */
+    font-size:90%;
     background-color: #000000;
-	background-image: url("background_rendered_blue.jpg");
-	background-repeat: no-repeat;
-	background-position: 10px 80px;
-	background-attachment: fixed;
-	color: #FFFFFF;
-    font-family: arial;
-	font-size: 12px;
-	font-weight: normal;
-	margin: 0px;
-	padding: 0px;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-position: 10px 80px;
+    background-attachment: fixed;
+    color: #FFFFFF;
 }
-
-h3 {
-	color: #FFFFFF;
-	font-family: arial;
-	font-size: 14px;
-	font-weight: bold;
+a {
+    color:#369;
 }
-
-a:link {
-	color: #1E90FF;
-	text-decoration: none;
-}
-
-a:visited {
-	color: #1E90FF;
-	text-decoration: none;
-}
-
 a:hover {
-	color: #1E90FF;
-	text-decoration: none;
+    color:#fff;
+    background:#369;
+    text-decoration:none;
+}
+h1, h2, h3 {
+    margin:.8em 0 .2em 0;
+    padding:0;
+}
+p {
+    margin:.4em 0 .8em 0;
+    padding:0;
+}
+img {
+    margin:10px 0 5px;
+}
+/* Header styles */
+#header {
+    clear:both;
+    float:left;
+    width:100%;
+}
+#header {
+    border-bottom:1px solid #000;
+}
+#header h1 {
+	text-align: center;
+}
+/* 'widths' sub menu */
+#layoutdims {
+    clear:both;
+    background:#eee;
+    border-top:4px solid #000;
+    margin:0;
+    padding:6px 15px;         /* !important */
+    text-align:right;
+}
+/* column container */
+.colmask {
+    position:relative;    /* This fixes the IE7 overflow hidden bug */
+    clear:both;
+    float:left;
+    width:100%;            /* width of whole page */
+    overflow:hidden;        /* This chops off any overhanging divs */
+}
+/* common column settings */
+.colright,
+.colmid,
+.colleft {
+    float:left;
+    width:100%;
+    position:relative;
+}
+.col1 {
+    float: left;
+	position: relative;
+	padding: 0 0 1em 0;
+	overflow: hidden;
+	background-color: #aaa;
+}
+.col2,
+.col3 {
+    float:left;
+    position:relative;
+    padding:0 0 1em 0;
+    overflow:hidden;
+}
+/* 2 Column (right menu) settings */
+.rightmenu {
+    background:#eee;        /* right column background colour */
+}
+.rightmenu .colleft {
+    right:25%;            /* right column width */
+    background:#fff;        /* left column background colour */
+}
+.rightmenu .col1 {
+    width:71%;            /* left column content width (left column width minus left and right padding) */
+    left:27%;            /* (right column width) plus (left column left padding) */
+}
+.rightmenu .col2 {
+    width:21%;            /* right column content width (right column width minus left and right padding) */
+    left:31%;            /* (right column width) plus (left column left and right padding) plus (right column left padding) */
+}
+/* Footer styles */
+#footer {
+    clear:both;
+    float:left;
+    width:100%;
+    border-top:1px solid #000;
+}
+#footer p {
+    padding:10px;
+    margin:0;
 }
 
-a:active {
-	color: #1E90FF;
-	text-decoration: none;
+/* From
+http://matthewjamestaylor.com/blog/beautiful-css-centered-menus-no-hacks-full-cross-browser-support
+*/
+#centeredmenu {
+    float:left;
+    width:100%;
+    background:#fff;
+    border-bottom:4px solid #000;
+    overflow:hidden;
+    position:relative;
 }
-
-a img {
-        border: none;
+#centeredmenu ul {
+    clear:left;
+    float:left;
+    list-style:none;
+    margin:0;
+    padding:0;
+    position:relative;
+    left:50%;
+    text-align:center;
 }
-
-div.menu {
-	position: fixed;
+#centeredmenu ul li {
+    display:block;
+    float:left;
+    list-style:none;
+    margin:0;
+    padding:0;
+    position:relative;
+    right:50%;
 }
-
-div.menu a {
-	position: fixed;
-	height: 30px;
-	width: 124px;
-	left: 176px;
-	text-decoration: none;
+#centeredmenu ul li a {
+    display:block;
+    margin:0 0 0 1px;
+    padding:3px 10px;
+    background:#ddd;
+    color:#000;
+    text-decoration:none;
+    line-height:1.3em;
 }
-
-div.menu a:hover {
-	background-color: #FFFFFF;
-	/* Standard CSS opacity - works on FireFox */
-	opacity: 0.2;
-	/* Opacity for IE 7 */
-	filter: alpha(opacity = 20);
-	/* Opacity for older versions of IE */
-	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=20);
-	/* Opacity for Mozilla */
-	-moz-opacity: 0.2;		
+#centeredmenu ul li a:hover {
+    background:#369;
+    color:#fff;
 }
-
-div.menu a i {
-	color: #000000;
-	font-size: small;
-	font-style: normal;
-	font-variant: small-caps;
-	position: absolute;
+#centeredmenu ul li a.active,
+#centeredmenu ul li a.active:hover {
+    color:#fff;
+    background:#000;
+    font-weight:bold;
 }
-
-a#news { top: 270px; }
-a#events { top: 300px; }
-a#band { top: 330px; }
-a#music { top: 360px; }
-a#photos { top: 390px; }
-a#contact { top: 420px; }
-a#myspace { top: 450px; }
-
-div.contentBox {
-	position: absolute;
-	right: 20px;
-	top: 70px;
-	width: 700px;
-}
-
-div.translucentBackground {
-	position: absolute;
-	width: 660px;
-	color: #202020;
-	background-color: #202020;
-	/* Standard CSS opacity - works on FireFox */
-	opacity: 0.5;
-	/* Opacity for IE 7 */
-	filter: alpha(opacity = 50);
-	/* Opacity for older versions of IE */
-	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
-	/* Opacity for Mozilla */
-	-moz-opacity: 0.5;
-	z-index: 1;
-    padding: 40px 20px;
-	margin: 1px;
-}
-
-div.translucentBackground a {
-	color: #202020;
-}
-
-div.translucentBackground h3 {
-	color: #202020;
-}
-
-div.opaqueText {
-	position: absolute;
-	width: 660px;
-	background-color: transparent;
-	z-index: 2;
-	visible: false;
-	padding: 40px 20px;
-	margin: 1px;
-    border: 1px solid #FFFFFF;
-}
-
