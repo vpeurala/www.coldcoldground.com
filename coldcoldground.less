@@ -6,7 +6,7 @@ body {
     padding:0;
     border:0;            /* This removes the border around the viewport in old versions of IE */
     width:100%;
-    min-width:600px;        /* Minimum width of layout - remove line if not required */
+    min-width:1200px;        /* Minimum width of layout - remove line if not required */
     /* The min-width property does not work in old versions of Internet Explorer */
     font-size:90%;
     background-image: url("background.jpg");
@@ -66,7 +66,8 @@ img {
     position:relative;    /* This fixes the IE7 overflow hidden bug */
     clear:both;
     float:left;
-    width:100%;            /* width of whole page */
+    width:800px;            /* width of whole page */
+    margin-left: 442px;
     overflow:hidden;        /* This chops off any overhanging divs */
 }
 /* common column settings */
@@ -92,8 +93,8 @@ img {
     overflow:hidden;
 }
 /* 2 Column (right menu) settings */
-@left_column_width: 70%;
-@right_column_width: 30%;
+@left_column_width: 60%;
+@right_column_width: 40%;
 @column_padding: 2%;
 .rightmenu {
     background:#222;        /* right column background colour */
