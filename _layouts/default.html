@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml-lang="en" lang="en-us">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>{{ page.title }}</title>
+<!--[if lt IE 8]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1%28beta3%29/IE9.js" type="text/javascript"></script>
+<![endif]-->
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.2/prototype.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="js/lightbox.js"></script>
+<link rel="stylesheet" href="lightbox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="coldcoldground.css" type="text/css" media="screen" />
+</head>
+<body>
+<div id="header">
+	<h1><img src="logomyspace3.jpg" alt="Cold Cold Ground"></img></h1>
+	<div id="centeredmenu">
+	<ul>
+		<li><a href="index.html" {% if page.active == "news" %} class="selected" {% endif %}><img src="menu_news.gif" alt="News" /></a></li>
+		<li><a href="events.html" {% if page.active == "events" %} class="selected" {% endif %}><img src="menu_events.gif" alt="Events" /></a></li>
+		<li><a href="band.html" {% if page.active == "band" %} class="selected" {% endif %}><img src="menu_band.gif" alt="Band" /></a></li>
+		<li><a href="music.html" {% if page.active == "music" %} class="selected" {% endif %}><img src="menu_music.gif" alt="Music" /></a></li>
+		<li><a href="video.html" {% if page.active == "video" %} class="selected" {% endif %}><img src="menu_video.gif" alt="Video" /></a></li>
+		<li><a href="photos.html" {% if page.active == "photos" %} class="selected" {% endif %}><img src="menu_photos.gif" alt="Photos" /></a></li>
+		<li><a href="contact.html" {% if page.active == "contact" %} class="selected" {% endif %}><img src="menu_contact.gif" alt="Contact" /></a></li>
+		<li><a href="http://www.myspace.com/coldcoldground"><img src="menu_myspace.gif" alt="MySpace" /></a></li>
+		<li><a href="http://www.facebook.com/pages/Cold-Cold-Ground/10293065902"><img src="menu_facebook.gif" alt="Facebook" /></a></li>
+		<li><a href="http://www.youtube.com/nowrotteninside"><img src="menu_youtube.gif" alt="YouTube" /></a></li>
+		<li><a href="http://twitter.com/nowrotteninside"><img src="menu_twitter.gif" alt="Twitter" /></a></li>
+	</ul>
+	</div>
+</div>
+
+<div class="colmask rightmenu">
+	<div class="colleft">
+		<div class="col1">
+			{{ content }}
+		</div>
+		<div class="col2">
+                        <br />
+			<!-- Column 2 start -->
+                        <object type="application/x-shockwave-flash" data="dewplayer-playlist.swf" id="dewplayerpls" name="dewplayerpls" height="200" width="240">
+                                <param name="movie" value="dewplayer-playlist.swf">
+                                <param name="flashvars" value="xml=playlist.xml">
+                        </object>
+
+                        <h3>Next gigs</h3>
+                        <p><a href="http://www.tiketti.fi/tapahtuma/7215">Friday 19.3.2010 - Tavastia, Helsinki (w/Turmion k&auml;til&ouml;t)</a></p>
+                        <p>Thursday 15.4.2010 - Kuudes linja, Helsinki (w/Apples of Idun)</p>
+                        <p>Thursday 1.7.2010 - Liberte, Helsinki (w/Epoche, Apples of Idun)</p>
+			<!-- Column 2 end -->
+		</div>
+	</div>
+</div>
+<div id="footer">
+	<p>Copyright &copy; 2010 Cold Cold Ground. All rights reserved.</p>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5623711-1");
+pageTracker._trackPageview();
+</script> 
+</body>
+</html>
