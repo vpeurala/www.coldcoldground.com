@@ -34,7 +34,6 @@ img {
   clear: both;
   float: left;
   width: 100%;
-  border-bottom: 1px solid #000000;
   text-align: center;
 }
 #header h1 { text-align: center; }
@@ -46,7 +45,6 @@ img {
 #layoutdims {
   clear: both;
   background-color: #000000;
-  border-top: 4px solid #000000;
   margin: 0;
   padding: 6px 15px;
   text-align: right;
@@ -95,7 +93,6 @@ img {
   clear: both;
   float: left;
   width: 100%;
-  border-top: 1px solid #000000;
 }
 #footer p {
   padding: 10px;
@@ -103,13 +100,13 @@ img {
 }
 #centeredmenu {
   background-color: #000000;
-  border-bottom: 4px solid #000000;
   overflow: hidden;
   position: relative;
-  width: 800px;
+  width: 600px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 #centeredmenu ul {
   clear: left;
