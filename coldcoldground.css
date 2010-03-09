@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 100%;
+  min-width: 1200px;
+  font-size: 90%;
+  background-image: url("ccg_wallpaper1.jpg");
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-attachment: fixed;
+  background-color: #000000;
+  color: #ffffff;
+}
+a { color: #888888; }
+a:hover {
+  color: #ffff00;
+  background-color: #333333;
+  text-decoration: none;
+}
+h1, h2, h3 {
+  margin: 0.8em 0 0.2em 0;
+  padding: 0;
+}
+p {
+  margin: 0.4em 0 0.8em 0;
+  padding: 0;
+}
+img {
+  margin: 10px 0 5px;
+  padding: 0;
+}
+#header {
+  clear: both;
+  float: left;
+  width: 100%;
+  border-bottom: 1px solid #000000;
+}
+#header h1 { text-align: center; }
+#header h1 img {
+  display: block;
+  margin-left: 442px;
+  top: 0px;
+}
+#layoutdims {
+  clear: both;
+  background-color: #000000;
+  border-top: 4px solid #000000;
+  margin: 0;
+  padding: 6px 15px;
+  text-align: right;
+}
+.colmask {
+  position: relative;
+  clear: both;
+  float: left;
+  width: 800px;
+  margin-left: 442px;
+  overflow: hidden;
+}
+.colright, .colmid, .colleft {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+.col1 {
+  float: left;
+  position: relative;
+  padding: 0 0 1em 0;
+  overflow: hidden;
+  background-color: #000000;
+}
+.col2, .col3 {
+  float: left;
+  position: relative;
+  padding: 0 0 1em 0;
+  overflow: hidden;
+}
+.rightmenu { background: #222222; }
+.rightmenu .colleft {
+  right: 40%;
+  background: #000000;
+}
+.rightmenu .col1 {
+  width: 56%;
+  left: 42%;
+}
+.rightmenu .col2 {
+  width: 36%;
+  left: 46%;
+}
+#footer {
+  clear: both;
+  float: left;
+  width: 100%;
+  border-top: 1px solid #000000;
+}
+#footer p {
+  padding: 10px;
+  margin: 0;
+}
+#centeredmenu {
+  float: left;
+  width: 100%;
+  background-color: #000000;
+  border-bottom: 4px solid #000000;
+  overflow: hidden;
+  position: relative;
+}
+#centeredmenu ul {
+  clear: left;
+  float: left;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  text-align: center;
+}
+#centeredmenu ul li {
+  display: block;
+  float: left;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  right: 50%;
+}
+#centeredmenu ul li a {
+  display: block;
+  margin: 0 0 0 1px;
+  padding: 3px 10px;
+  background-color: #000000;
+  color: #000000;
+  text-decoration: none;
+  line-height: 1.3em;
+}
+#centeredmenu ul li a:hover { color: #ffff00; }
+#centeredmenu ul li a.selected { color: #ffffff; }
+#centeredmenu ul li a.selected:hover { color: #ffffff; }
