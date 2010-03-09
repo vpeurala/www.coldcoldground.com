@@ -3,11 +3,9 @@ layout: default
 title: Cold Cold Ground - Music
 active: music
 ---
-h3. Demo versions of songs from Cold Cold Ground's upcoming album (December 2008)
+h3. Samples from the album This Side of Depravity (not yet released)
 
-# "You Will Break":music/Cold_Cold_Ground_You_Will_Break.mp3
-# "Tension":music/Cold_Cold_Ground_Tension.mp3
-# "DIYM":music/Cold_Cold_Ground_DIYM.mp3
+Listen to the music player on the sidebar (to the right from here).
 
 h3. Music video for DIYM (December 2008)
 
@@ -47,7 +45,7 @@ h3. Custom Built EP (October 2006) - "BUY IT FROM LEVYVIRASTO":http://www.levyvi
 <br />
 <br />
 
-h3. Lamb EP (September 2005)
+h3. Lamb EP (September 2005) - SOLD OUT
 
 !{float: right;}lamb_kansi.jpg!
 # Lamb
