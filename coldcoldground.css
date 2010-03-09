@@ -14,8 +14,8 @@ body {
 }
 a { color: #888888; }
 a:hover {
-  color: #ffff00;
-  background-color: #333333;
+  color: #000000;
+  background-color: #aaaaaa;
   text-decoration: none;
 }
 h1, h2, h3 {
@@ -108,6 +108,10 @@ img {
   border-bottom: 4px solid #000000;
   overflow: hidden;
   position: relative;
+  max-width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 #centeredmenu ul {
   clear: left;
