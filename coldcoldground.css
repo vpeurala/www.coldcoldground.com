@@ -136,6 +136,6 @@ img {
   text-decoration: none;
   line-height: 1.3em;
 }
-#centeredmenu ul li a:hover { color: #ffff00; }
-#centeredmenu ul li a.selected { color: #ffffff; }
-#centeredmenu ul li a.selected:hover { color: #ffffff; }
+#centeredmenu ul li a:hover { color: #888888; }
+#centeredmenu ul li a.selected { color: #888888; }
+#centeredmenu ul li a.selected:hover { color: #888888; }
