@@ -5,7 +5,12 @@ active: music
 ---
 h3. Samples from the album This Side of Depravity (not yet released)
 
-Listen to the music player on the sidebar (to the right from here).
+Listen to the music player on the sidebar 
+
+!arrow.png!
+
+You need a Flash player to listen to the songs.
+You can download one "here":http://get.adobe.com/flashplayer/
 
 h3. Music video for DIYM (December 2008)
 
