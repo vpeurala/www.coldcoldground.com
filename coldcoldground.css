@@ -139,3 +139,8 @@ img {
 #centeredmenu ul li a:hover { color: #888888; }
 #centeredmenu ul li a.selected { color: #888888; }
 #centeredmenu ul li a.selected:hover { color: #888888; }
+.date {
+  float: right;
+  padding-left: 1em;
+  font-size: 90%;
+}

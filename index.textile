@@ -3,23 +3,33 @@ layout: default
 title: Cold Cold Ground - News
 active: news
 ---
-h3. 5.3.2010: Trash Fest III starts today at Nosturi!
+<div class="date">March 5th, 2010</div>
+
+h3. Trash Fest III starts today at Nosturi!
 
 Today, Friday the 5th of March, Trash Fest III starts at Nosturi. Cold Cold Ground will play tomorrow on Saturday. Welcome!
 
-h3. 1.3.2010: CCG to warm up for Turmion K&auml;til&ouml;t at Tavastia, 19.3.2010!
+<div class="date">March 1st, 2010</div>
+
+h3. CCG to warm up for Turmion K&auml;til&ouml;t at Tavastia, 19.3.2010!
 
 "Turmion K&auml;til&ouml;t":http://turmion-katilot.info/ has chosen Cold Cold Ground as their warm up act at Tavastia, 19th of March. Be there!
 
-h3. 24.2.2010: Cold Cold Ground will tear up Dante's Highlight next Friday
+<div class="date">February 24th, 2010</div>
+
+h3. Cold Cold Ground will tear up Dante's Highlight next Friday
 
 On Friday, 26th of February, Cold Cold Ground and the inimitable "THE iNSULT THAT MADE A MAN OUT OF MAC":http://www.insult.fi/ are going to perform at Dante's Highlight, Helsinki. 
 
-h3. 28.1.2010: Cold Cold Ground on Felixstowe Radio today!
+<div class="date">January 28th, 2010</div>
+
+h3. Cold Cold Ground on Felixstowe Radio today!
 
 Cold Cold Ground is played today on Felixstowe Radio! Check out the Facebook event for more details: "http://www.facebook.com/pages/Mark-on-Felixstowe-Radio/173700676749":http://www.facebook.com/pages/Mark-on-Felixstowe-Radio/173700676749
 
-h3. 10.1.2009: Hauptmann D interview on Gothic International
+<div class="date">January 10th, 2010</div>
+
+h3. Hauptmann D interview on Gothic International
 
 An interview of Hauptmann D (in English) has been published on "Gothic International":http://www.gothicinternational.com/?p=272. Enjoy!
 
