@@ -9,15 +9,15 @@
     <trackList>
 
         <track>
-          <location>mp3/test1.mp3</location>
-          <creator>Bedrich Smetana</creator>
-          <album>Má Vlast</album>
-          <title>La Moldau (Vltava)</title>
-          <annotation>I love this song</annotation>
-          <duration>32000</duration>
-          <image>covers/1.jpg</image>
+          <location>http://www.coldcoldground.com/music/Cold_Cold_Ground_Tension.mp3</location>
+          <creator>Cold Cold Ground</creator>
+          <album>This Side of Depravity</album>
+          <title>Tension</title>
+          <annotation></annotation>
+          <duration></duration>
+          <image></image>
           <info></info>
-          <link>http://fr.wikipedia.org/wiki/M%C3%A1_Vlast_(Smetana)</link>
+          <link></link>
         </track>
         
         <track>
@@ -27,9 +27,9 @@
           <title>La Symphonie du Nouveau Monde</title>
           <annotation></annotation>
           <duration></duration>
-          <image>covers/2.jpg</image>
+          <image></image>
           <info></info>
-          <link>http://fr.wikipedia.org/wiki/Cesaria_Evora</link>
+          <link></link>
         </track>
         
         <track>
@@ -39,7 +39,7 @@
           <title>Le Hussard sur le Toit</title>
           <annotation></annotation>
           <duration></duration>
-          <image>covers/3.jpg</image>
+          <image></image>
           <info></info>
           <link></link>
         </track>
