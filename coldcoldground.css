@@ -3,19 +3,19 @@ body {
   padding: 0;
   border: 0;
   width: 100%;
-  min-width: 1200px;
-  font-size: 90%;
+  font-size: 80%;
+  font-family: "arial", "sans-serif";
   background-image: url("ccg_wallpaper1.jpg");
   background-repeat: no-repeat;
-  background-position: 0px 0px;
+  background-position: top center;
   background-attachment: fixed;
   background-color: #000000;
   color: #ffffff;
 }
 a { color: #888888; }
 a:hover {
-  color: #ffff00;
-  background-color: #333333;
+  color: #000000;
+  background-color: #aaaaaa;
   text-decoration: none;
 }
 h1, h2, h3 {
@@ -35,12 +35,13 @@ img {
   float: left;
   width: 100%;
   border-bottom: 1px solid #000000;
+  text-align: center;
 }
 #header h1 { text-align: center; }
 #header h1 img {
   display: block;
-  margin-left: 442px;
   top: 0px;
+  text-align: center;
 }
 #layoutdims {
   clear: both;
@@ -53,10 +54,11 @@ img {
 .colmask {
   position: relative;
   clear: both;
-  float: left;
-  width: 800px;
-  margin-left: 442px;
+  max-width: 800px;
   overflow: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .colright, .colmid, .colleft {
   float: left;
@@ -100,12 +102,14 @@ img {
   margin: 0;
 }
 #centeredmenu {
-  float: left;
-  width: 100%;
   background-color: #000000;
   border-bottom: 4px solid #000000;
   overflow: hidden;
   position: relative;
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 #centeredmenu ul {
   clear: left;
@@ -135,6 +139,6 @@ img {
   text-decoration: none;
   line-height: 1.3em;
 }
-#centeredmenu ul li a:hover { color: #ffff00; }
-#centeredmenu ul li a.selected { color: #ffffff; }
-#centeredmenu ul li a.selected:hover { color: #ffffff; }
+#centeredmenu ul li a:hover { color: #888888; }
+#centeredmenu ul li a.selected { color: #888888; }
+#centeredmenu ul li a.selected:hover { color: #888888; }

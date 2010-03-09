@@ -3,7 +3,7 @@ layout: default
 title: Cold Cold Ground - Events
 active: events
 ---
-h3. Upcoming gigs
+h3. Upcoming shows
 
 Friday 19.3.2010 - Tavastia, Helsinki (w/Turmion k&auml;til&ouml;t) - "BUY TICKET":http://www.tiketti.fi/tapahtuma/7215
 
@@ -17,7 +17,7 @@ Thursday 1.7.2010 - Liberte, Helsinki (w/Epoche, Apples of Idun)
 <br />
 <br />
 
-h3. Past gigs
+h3. Past shows
 
 Saturday 6.3.2010 - Nosturi, Helsinki (Trash Fest III)
 
