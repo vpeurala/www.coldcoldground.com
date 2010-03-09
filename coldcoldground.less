@@ -6,13 +6,12 @@ body {
     padding:0;
     border:0;            /* This removes the border around the viewport in old versions of IE */
     width:100%;
-    min-width:1200px;        /* Minimum width of layout - remove line if not required */
     /* The min-width property does not work in old versions of Internet Explorer */
     font-size:90%;
     font-family:"arial", "sans-serif";
     background-image: url("ccg_wallpaper1.jpg");
     background-repeat: no-repeat;
-    background-position: 0px 0px;
+    background-position: top center;
     background-attachment: fixed;
     background-color: #000000;
     color: #ffffff;
@@ -43,14 +42,15 @@ img {
     float:left;
     width:100%;
     border-bottom:1px solid #000;
+    text-align: center;
 }
 #header h1 {
     text-align: center;
 }
 #header h1 img {
     display: block;
-    margin-left: 442px;
     top: 0px;
+    text-align: center;
 }
 
 /* 'widths' sub menu */
@@ -66,10 +66,11 @@ img {
 .colmask {
     position:relative;    /* This fixes the IE7 overflow hidden bug */
     clear:both;
-    float:left;
-    width:800px;            /* width of whole page */
-    margin-left: 442px;
+    max-width:800px;
     overflow:hidden;        /* This chops off any overhanging divs */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 /* common column settings */
 .colright,
@@ -134,6 +135,7 @@ http://matthewjamestaylor.com/blog/beautiful-css-centered-menus-no-hacks-full-cr
     border-bottom:4px solid #000;
     overflow:hidden;
     position:relative;
+    /* Ville's own additions */
 }
 #centeredmenu ul {
     clear:left;

@@ -3,12 +3,11 @@ body {
   padding: 0;
   border: 0;
   width: 100%;
-  min-width: 1200px;
   font-size: 90%;
   font-family: "arial", "sans-serif";
   background-image: url("ccg_wallpaper1.jpg");
   background-repeat: no-repeat;
-  background-position: 0px 0px;
+  background-position: top center;
   background-attachment: fixed;
   background-color: #000000;
   color: #ffffff;
@@ -36,12 +35,13 @@ img {
   float: left;
   width: 100%;
   border-bottom: 1px solid #000000;
+  text-align: center;
 }
 #header h1 { text-align: center; }
 #header h1 img {
   display: block;
-  margin-left: 442px;
   top: 0px;
+  text-align: center;
 }
 #layoutdims {
   clear: both;
@@ -54,10 +54,11 @@ img {
 .colmask {
   position: relative;
   clear: both;
-  float: left;
-  width: 800px;
-  margin-left: 442px;
+  max-width: 800px;
   overflow: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .colright, .colmid, .colleft {
   float: left;
