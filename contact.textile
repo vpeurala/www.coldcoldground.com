@@ -3,8 +3,17 @@ layout: default
 title: Cold Cold Ground - Contact
 active: contact
 ---
+h3. Contact information
+
 Email: band@coldcoldground.com
 
 Www: www.coldcoldground.com
 
 Myspace: www.myspace.com/coldcoldground
+
+h3. Credits for this website
+
+Graphical design by Rhett Podersoo, "Machine Room":http://www.machine-room.com.
+
+Copyright 2010 Cold Cold Ground. All rights reserved.
+
