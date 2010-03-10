@@ -5,9 +5,7 @@
     <link></link>
     <info></info>
     <image></image>
-
     <trackList>
-
         <track>
           <location>music/Cold_Cold_Ground_You_Will_Break_album.mp3</location>
           <creator>Cold Cold Ground</creator>
@@ -43,6 +41,5 @@
           <info></info>
           <link></link>
         </track>
-
     </trackList>
 </playlist>
