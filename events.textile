@@ -5,34 +5,34 @@ active: events
 ---
 h3. Upcoming shows
 
-| Friday   | 19.3.2010 | Tavastia, Helsinki     | w/Turmion k&auml;til&ouml;t | "BUY TICKET":http://www.tiketti.fi/tapahtuma/7215 |
-| Thursday | 15.4.2010 | Kuudes linja, Helsinki | w/Apples of Idun            | |
-| Thursday | 1.7.2010  | Liberte, Helsinki      | w/Epoche, Apples of Idun    | |
+| Fri | 19/03/2010 | Tavastia, Helsinki     | w/Turmion k&auml;til&ouml;t | "BUY TICKET":http://www.tiketti.fi/tapahtuma/7215 |
+| Thu | 15/04/2010 | Kuudes linja, Helsinki | w/Apples of Idun            | |
+| Thu | 01/07/2010 | Liberte, Helsinki      | w/Epoche, Apples of Idun    | |
 
 <br />
 <br />
 
 h3. Past shows
 
-|6.3.2010 | Nosturi, Helsinki |Trash Fest III|
-|26.2.2010 | Dante's Highlight, Helsinki |w/THE iNSULT THAT MADE A MAN OUT OF MAC|
-|5.2.2010 | TVO, Turku |w/I Was a Teenage Satan Worshipper, Apples of Idun|
-|30.12.2009 | Bar Loose, Helsinki |w/V for Violence|
-|15.7.2009 | On the Rocks, Helsinki |w/Apples of Idun, UltraNoir|
-|13.6.2009 | Nosturi, Helsinki |w/KMFDM|
-|28.5.2009 | Vastavirta-Klubi, Tampere |w/Ultranoir|
-|27.5.2009 | Dynamo, Turku |w/Apples of Idun, Ultranoir|
-|6.5.2009 | On the Rocks, Helsinki |Black Blooded Brides of Satan premiere party|
-|18.4.2009 | TVO, Turku |w/Apples of Idun, UltraNoir|
-|16.4.2009 | Henry's Pub, Kuopio |w/Apples of Idun, UltraNoir|
-|19.3.2009 | Semifinal, Helsinki |Trash Fest II Kick Off Party, w/HellFire Society, Sonic Roots|
-|16.1.2009 | Semifinal, Helsinki |w/Apples of Idun, UltraNoir|
-|7.7.2008 | On the Rocks, Helsinki |w/Neverdice|
-|7.6.2008 | Semifinal, Helsinki |w/man.machine.industry, Neverdice|
-|11.8.2007 | Turkoosi, Helsinki |w/Neverdice|
-|16.5.2007 | Gloria, Helsinki |Findustrial Metal Festival|
-|11.10.2006 | Semifinal, Helsinki |w/Auer|
-|3.6.2006 | Turkoosi, Helsinki |w/Neverdice|
-|18.3.2006 | Satakuntatalo, Helsinki | |
-|17.9.2005 | Factory, Helsinki |w/Auer, Try it again Sam|
+| 06/03/2010 | Nosturi, Helsinki |Trash Fest III|
+| 26/02/2010 | Dante's Highlight, Helsinki |w/THE iNSULT THAT MADE A MAN OUT OF MAC|
+| 05/02/2010 | TVO, Turku |w/I Was a Teenage Satan Worshipper, Apples of Idun|
+| 30/12/2009 | Bar Loose, Helsinki |w/V for Violence|
+| 15/07/2009 | On the Rocks, Helsinki |w/Apples of Idun, UltraNoir|
+| 13/06/2009 | Nosturi, Helsinki |w/KMFDM|
+| 28/05/2009 | Vastavirta-Klubi, Tampere |w/Ultranoir|
+| 27/05/2009 | Dynamo, Turku |w/Apples of Idun, Ultranoir|
+| 06/05/2009 | On the Rocks, Helsinki |Black Blooded Brides of Satan premiere party|
+| 18/04/2009 | TVO, Turku |w/Apples of Idun, UltraNoir|
+| 16/04/2009 | Henry's Pub, Kuopio |w/Apples of Idun, UltraNoir|
+| 19/03/2009 | Semifinal, Helsinki |Trash Fest II Kick Off Party, w/HellFire Society, Sonic Roots|
+| 16/01/2009 | Semifinal, Helsinki |w/Apples of Idun, UltraNoir|
+| 07/07/2008 | On the Rocks, Helsinki |w/Neverdice|
+| 07/06/2008 | Semifinal, Helsinki |w/man.machine.industry, Neverdice|
+| 11/08/2007 | Turkoosi, Helsinki |w/Neverdice|
+| 16/05/2007 | Gloria, Helsinki |Findustrial Metal Festival|
+| 11/10/2006 | Semifinal, Helsinki |w/Auer|
+| 03/06/2006 | Turkoosi, Helsinki |w/Neverdice|
+| 18/03/2006 | Satakuntatalo, Helsinki | |
+| 17/09/2005 | Factory, Helsinki |w/Auer, Try it again Sam|
 
