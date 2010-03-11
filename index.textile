@@ -5,6 +5,14 @@ active: news
 ---
 <hr />
 
+<div class="date">March 11th, 2010</div>
+
+h3. Last call for record labels
+
+Cold Cold Ground's debut album "This Side of Depravity" is ready to be released and the band is searching for an appropriate label and/or distribution company to co-operate with. Contact CCG soon!
+
+<hr />
+
 <div class="date">March 5th, 2010</div>
 
 h3. Trash Fest III starts today at Nosturi!
