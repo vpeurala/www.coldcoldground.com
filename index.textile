@@ -9,7 +9,7 @@ active: news
 
 h3. Two reviews of Trash Fest III
 
-Two nice reviews of Trash Fest III have been published in "Stalker Magazine":http://www.stalker.cd/ and "Tempelores":"http://tempelores.com". 
+Two nice reviews of Trash Fest III have been published in "Stalker Magazine":http://www.stalker.cd/ and "Tempelores":http://tempelores.com. 
 
 "http://www.stalker.cd/index.php?lang=1&content=22&kat=stalker_special&id=197&&lang=2":http://www.stalker.cd/index.php?lang=1&content=22&kat=stalker_special&id=197&&lang=2
 "http://tempelores.com/?p=2061":http://tempelores.com/?p=2061
