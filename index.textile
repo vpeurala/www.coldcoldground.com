@@ -5,6 +5,14 @@ active: news
 ---
 <hr />
 
+<div class="date">April 7th, 2010</div>
+
+h3. Cold Cold Ground US Support Team founded
+
+"Cold Cold Ground US Support Team":http://www.myspace.com/ccgus has been founded! If you live in the USA (or are otherwise interested), check out their "MySpace page":http://www.myspace.com/ccgus. 
+
+<hr />
+
 <div class="date">March 18th, 2010</div>
 
 h3. Two reviews of Trash Fest III
