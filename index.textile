@@ -5,6 +5,14 @@ active: news
 ---
 <hr />
 
+<div class="date">April 13th, 2010</div>
+
+h3. Kuudes linja show in real time on Livetarium
+
+Cold Cold Ground's show at Kuudes linja on Thursday, 15th of April will be streamed live on "Livetarium":http://www.livetarium.com/live.html. You can watch the show from the comfort of your home in real time. Of course, to get the most from CCG's live show, it is still better to be there physically. 
+
+<hr />
+
 <div class="date">April 7th, 2010</div>
 
 h3. Cold Cold Ground US Support Team founded
