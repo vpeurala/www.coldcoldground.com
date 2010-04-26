@@ -5,6 +5,16 @@ active: news
 ---
 <hr />
 
+<div class="date">April 26th, 2010</div>
+
+h3. Vote for CCG to play at Trash Fest IV!
+
+Cold Cold Ground will soon release some good news about their upcoming debut album.
+
+Meanwhile, you can go and vote CCG to play at Trash Fest IV: "http://www.mamatrash.com/votefortfivbands.htm":http://www.mamatrash.com/votefortfivbands.htm
+
+<hr />
+
 <div class="date">April 13th, 2010</div>
 
 h3. Kuudes linja show in real time on Livetarium
