@@ -12,9 +12,9 @@ Listen to the music player on the sidebar
 You need a Flash player to listen to the songs.
 You can download one "here":http://get.adobe.com/flashplayer/
 
-h3. Blue Light Circus EP (February 2008) - "BUY IT FROM THE GROUND":http://www.levyvirasto.net/catalog/product_info.php?products_id=1784
+h3. Blue Light Circus EP (February 2008) - SOLD OUT
 
-!{float: right;}blue_light_circus_kansi.jpg!:http://www.levyvirasto.net/catalog/product_info.php?products_id=1784
+!{float: right;}blue_light_circus_kansi.jpg!
 # Warden
 # Pseudo Life
 # Blue Light Circus
@@ -24,9 +24,9 @@ h3. Blue Light Circus EP (February 2008) - "BUY IT FROM THE GROUND":http://www.l
 <br />
 <br />
 
-h3. Custom Built EP (October 2006) - "BUY IT FROM THE GROUND":http://www.levyvirasto.net/catalog/product_info.php?products_id=2069
+h3. Custom Built EP (October 2006) - SOLD OUT
 
-!{float: right;}custom_built_kansi.jpg!:http://www.levyvirasto.net/catalog/product_info.php?products_id=2069
+!{float: right;}custom_built_kansi.jpg!
 # Present Day Hate
 # Dice Man
 # Custom Built
