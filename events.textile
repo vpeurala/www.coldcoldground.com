@@ -6,6 +6,7 @@ active: events
 h3. Upcoming shows
 
 | Thu | 01/07/2010 | Liberte, Helsinki      | w/Epoche, Apples of Idun    | |
+| Thu | 19/08/2010 | On the Rocks, Helsinki | w/Man.Machine.Industry      | |
 
 <br />
 <br />
@@ -28,7 +29,7 @@ h3. Past shows
 | 19/03/2009 | Semifinal, Helsinki |Trash Fest II Kick Off Party, w/HellFire Society, Sonic Roots|
 | 16/01/2009 | Semifinal, Helsinki |w/Apples of Idun, UltraNoir|
 | 07/07/2008 | On the Rocks, Helsinki |w/Neverdice|
-| 07/06/2008 | Semifinal, Helsinki |w/man.machine.industry, Neverdice|
+| 07/06/2008 | Semifinal, Helsinki |w/Man.Machine.Industry, Neverdice|
 | 11/08/2007 | Turkoosi, Helsinki |w/Neverdice|
 | 16/05/2007 | Gloria, Helsinki |Findustrial Metal Festival|
 | 11/10/2006 | Semifinal, Helsinki |w/Auer|
