@@ -5,6 +5,14 @@ active: news
 ---
 <hr />
 
+<div class="date">May 19th, 2010</div>
+
+h3. Disintegrating on Finnish television
+
+Finnish TV channel Nelonen (Channel Four Finland) has chosen CCG's song "Disintegrating" for the promotion campaign of season 4 of series "Criminal Minds". Watch the promotion clip on YouTube: "http://www.youtube.com/watch?v=e_3ubD31sdg":http://www.youtube.com/watch?v=e_3ubD31sdg
+
+<hr />
+
 <div class="date">April 26th, 2010</div>
 
 h3. Vote for CCG to play at Trash Fest IV!
