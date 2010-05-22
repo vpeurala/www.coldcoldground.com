@@ -5,6 +5,20 @@ active: news
 ---
 <hr />
 
+<div class="date">May 22th, 2010</div>
+
+h3. NEW VIDEO, RECORD DEAL AND ALBUM RELEASE DATE!
+
+This is a big day in the history of Cold Cold Ground.
+
+First of all, CCG has released a new music video for "You Will Break" from the upcoming album. Watch some real visual art on YouTube: "http://www.youtube.com/watch?v=W1bns9RKZ7c":http://www.youtube.com/watch?v=W1bns9RK27c. The video can also be watched on the "VIDEO" page of this website.
+
+Second piece of good news: Cold Cold Ground has signed a record deal with Osasto-A records. The search for a publisher is finally over.
+
+And third, but not least: The release date of Cold Cold Ground's debut album "This Side of Depravity" can be announced now. The album will be released on the 18th of August. Mark 18.08.2010 in your calendars now!
+
+<hr />
+
 <div class="date">May 19th, 2010</div>
 
 h3. Disintegrating on Finnish television
