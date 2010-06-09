@@ -5,6 +5,14 @@ active: news
 ---
 <hr />
 
+<div class="date">Jun 9th, 2010</div>
+
+h3. Disintegrating single release on 5th of July
+
+Cold Cold Ground's song "Disintegrating" will be released as a single by Osasto-A records. The official release date is 5.7.2010.
+
+<hr />
+
 <div class="date">May 22th, 2010</div>
 
 h3. NEW VIDEO, RECORD DEAL AND ALBUM RELEASE DATE!
