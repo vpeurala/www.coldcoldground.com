@@ -5,11 +5,33 @@ active: contact
 ---
 h3. Contact information
 
-Email: band@coldcoldground.com
+<hr />
 
-Www: www.coldcoldground.com
+h3. Record label 
 
-Myspace: www.myspace.com/coldcoldground
+"Osasto-A":http://www.osastoa.com/
+
+Email: osasto.a@gmail.com
+
+Phone: +358 41 436 1134
+
+<hr />
+
+h3. Promotion
+
+Silke Yli-Sirni&ouml; / "Tough Enough Promotion":http://www.myspace.com/toughenoughpromotion
+
+<hr />
+
+h3. The Band
+
+band@coldcoldground.com
+
+"www.coldcoldground.com":http://www.coldcoldground.com/
+
+"www.myspace.com/coldcoldground":http://www.myspace.com/coldcoldground
+
+<hr />
 
 h3. Credits for this website
 
