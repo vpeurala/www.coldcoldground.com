@@ -5,6 +5,14 @@ active: news
 ---
 <hr />
 
+<div class="date">Jul 5th, 2010</div>
+
+h3. Disintegrating digital single out NOW!
+
+Check your favorite online music store immediately!
+
+<hr />
+
 <div class="date">Jun 9th, 2010</div>
 
 h3. Disintegrating single release on 5th of July

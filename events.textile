@@ -5,7 +5,6 @@ active: events
 ---
 h3. Upcoming shows
 
-| Thu | 01/07/2010 | Liberte, Helsinki             | w/Epoche, Apples of Idun         | |
 | Thu | 19/08/2010 | On the Rocks, Helsinki        | w/Man.Machine.Industry           | |
 | Fri | 20/08/2010 | Dog's Home, Tampere           | w/Man.Machine.Industry           | |
 | Fri | 27/08/2010 | Roihuvuori Festival, Helsinki | w/Notkea Rotta                   | |
@@ -16,6 +15,7 @@ h3. Upcoming shows
 
 h3. Past shows
 
+| 01/07/2010 | Liberte, Helsinki | w/Ultranoir, Apples of Idun |
 | 15/04/2010 | Kuudes linja, Helsinki | w/Apples of Idun |
 | 19/03/2010 | Tavastia, Helsinki | w/Turmion k&auml;til&ouml;t |
 | 06/03/2010 | Nosturi, Helsinki |Trash Fest III|
