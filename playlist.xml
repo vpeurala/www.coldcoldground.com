@@ -5,41 +5,44 @@
     <link></link>
     <info></info>
     <image></image>
+
     <trackList>
+
         <track>
-          <location>music/Cold_Cold_Ground_You_Will_Break_album.mp3</location>
+          <location>music/Disintegrating_sample.mp3</location>
           <creator>Cold Cold Ground</creator>
           <album>This Side of Depravity</album>
-          <title>You Will Break</title>
+          <title>Disintegrating (sample)</title>
           <annotation></annotation>
-          <duration></duration>
+          <duration>1:00</duration>
           <image></image>
           <info></info>
           <link></link>
         </track>
         
         <track>
-          <location>music/Cold_Cold_Ground_PIGS.mp3</location>
+          <location>music/You_Will_Break_sample.mp3</location>
           <creator>Cold Cold Ground</creator>
           <album>This Side of Depravity</album>
-          <title>Pigs</title>
+          <title>You Will Break (sample)</title>
           <annotation></annotation>
-          <duration></duration>
+          <duration>1:00</duration>
           <image></image>
           <info></info>
           <link></link>
         </track>
         
         <track>
-          <location>music/Cold_Cold_Ground_Disintegrating.mp3</location>
+          <location>music/Pigs_sample.mp3</location>
           <creator>Cold Cold Ground</creator>
           <album>This Side of Depravity</album>
-          <title>Disintegrating</title>
+          <title>Pigs (sample)</title>
           <annotation></annotation>
-          <duration></duration>
+          <duration>1:00</duration>
           <image></image>
           <info></info>
           <link></link>
         </track>
+
     </trackList>
 </playlist>
