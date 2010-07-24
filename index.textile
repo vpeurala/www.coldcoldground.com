@@ -5,21 +5,31 @@ active: news
 ---
 <hr />
 
+<div class="date">Jul 24th, 2010</div>
+
+h3. This Side of Depravity release party
+
+This Side of Depravity record release party will be held at On the Rocks, Helsinki, on the 19th of August. Cold Cold Ground will play there and "man.machine.industry":http://www.myspace.com/manmachineindustry from Sweden is the first act, so be sure to mark this day in your calendars.
+
+This Side of Depravity album can also now be pre-ordered from "Levykauppa &Auml;x":http://www.levykauppax.fi/artist/cold_cold_ground/this_side_of_depravity/. Order now and get the album to your home on the release day, 18.8.2010.
+
+<hr />
+
 <div class="date">Jul 5th, 2010</div>
 
 h3. Disintegrating digital single out NOW!
 
 Check your favorite online music store immediately!
 
-"iTunes":http://itunes.apple.com/us/album/disintegrating/id377876630?i=377876674&ign-mpt=uo%3D4
+"iTunes":http://itunes.apple.com/us/album/disintegrating/id377876630?i=377876674&ign-mpt=uo%3D4 (World)
 
-"Amazon.com":http://www.amazon.com/Disintegrating/dp/B003TE4KGY/ref=sr_1_1?ie=UTF8&s=dmusic&qid=1278416661&sr=8-1&tag=vglnk-c9-20
+"Radio Rock Store":http://digistore.radiorock.fi/album/Cold_Cold_Ground/Disintegrating/3003B2DD-BFC9-400B-9287-D56C08BBDA29/ (Finland)
 
-"Amazon.co.uk":http://www.amazon.co.uk/Disintegrating/dp/B003TN27KG/ref=sr_1_2?ie=UTF8&s=dmusic&qid=1278440042&sr=8-2
+"MTV3 Store":http://download.mtv3.fi/album/Cold_Cold_Ground/Disintegrating/3003B2DD-BFC9-400B-9287-D56C08BBDA29/ (Finland)
 
-"Radio Rock Store":http://digistore.radiorock.fi/album/Cold_Cold_Ground/Disintegrating/3003B2DD-BFC9-400B-9287-D56C08BBDA29/
+"Amazon.com":http://www.amazon.com/Disintegrating/dp/B003TE4KGY/ref=sr_1_1?ie=UTF8&s=dmusic&qid=1278416661&sr=8-1&tag=vglnk-c9-20 (USA)
 
-"MTV3 Store":http://download.mtv3.fi/album/Cold_Cold_Ground/Disintegrating/3003B2DD-BFC9-400B-9287-D56C08BBDA29/
+"Amazon.co.uk":http://www.amazon.co.uk/Disintegrating/dp/B003TN27KG/ref=sr_1_2?ie=UTF8&s=dmusic&qid=1278440042&sr=8-2 (UK)
 
 <hr />
 

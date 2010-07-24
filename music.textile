@@ -3,14 +3,34 @@ layout: default
 title: Cold Cold Ground - Music
 active: music
 ---
-h3. Samples from the album This Side of Depravity (not yet released)
+h3. This Side of Depravity (out 18.8.2010) - "PRE-ORDER":http://www.levykauppax.fi/artist/cold_cold_ground/this_side_of_depravity/
 
-Listen to the music player on the sidebar 
+!{float: right;}this_side_of_depravity.jpg!
+# You Will Break
+# Pigs
+# Warden
+# Doves
+# Pseudo Life
+# DIYM
+# Tension
+# Salesman in Me
+# Electrodes in the Head
+# Disintegrating
+<br />
+<br />
+<br />
+<br />
+<br />
 
-!arrow.png!
+h3. Disintegrating single (5.7.2010) - ORDER FROM THE LINKS ON THE RIGHT SIDEBAR
 
-You need a Flash player to listen to the songs.
-You can download one "here":http://get.adobe.com/flashplayer/
+!{float: right;}Dis_banner.jpg!
+# Disintegrating
+<br />
+<br />
+<br />
+<br />
+<br />
 
 h3. Blue Light Circus EP (February 2008) - SOLD OUT
 
