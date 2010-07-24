@@ -5,7 +5,7 @@ active: music
 ---
 h3. This Side of Depravity (out 18.8.2010) - "PRE-ORDER":http://www.levykauppax.fi/artist/cold_cold_ground/this_side_of_depravity/
 
-!{float: right;}this_side_of_depravity.jpg!
+!{float: right;}this_side_of_depravity2.jpg!
 # You Will Break
 # Pigs
 # Warden
@@ -24,7 +24,7 @@ h3. This Side of Depravity (out 18.8.2010) - "PRE-ORDER":http://www.levykauppax.
 
 h3. Disintegrating single (5.7.2010) - ORDER FROM THE LINKS ON THE RIGHT SIDEBAR
 
-!{float: right;}disintegrating.jpg!
+!{float: right;}disintegrating2.jpg!
 # Disintegrating
 <br />
 <br />
