@@ -3,7 +3,7 @@ layout: default
 title: Cold Cold Ground - Music
 active: music
 ---
-h3. This Side of Depravity (out 18.8.2010) - "PRE-ORDER":http://www.levykauppax.fi/artist/cold_cold_ground/this_side_of_depravity/
+h3. This Side of Depravity (18.8.2010) - "ORDER":http://www.recordshopx.com/artist/cold_cold_ground/this_side_of_depravity/
 
 !{float: right;}this_side_of_depravity2.jpg!
 # You Will Break
