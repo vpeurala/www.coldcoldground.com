@@ -5,6 +5,16 @@ active: news
 ---
 <hr />
 
+<div class="date">Aug 23th, 2010</div>
+
+h3. Thanks to everybody at Helsinki and Tampere shows
+
+Cold Cold Ground would like to thank everybody at our Helsinki and Tampere shows with Man.Machine.Industry last week.
+
+Next up is Roihuvuori festival (Roihuvuoren kyl&auml;juhla) on Friday 27th of August! It will be an interesting mix of hip hop and rock, with "Notkea Rotta":http://www.monsp.com/notkearotta/ and Cold Cold Ground as the headliners and many local bands playing too.
+
+<hr />
+
 <div class="date">Aug 18th, 2010</div>
 
 h3. This Side of Depravity OUT NOW!
