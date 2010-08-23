@@ -5,6 +5,16 @@ active: news
 ---
 <hr />
 
+<div class="date">Aug 18th, 2010</div>
+
+h3. This Side of Depravity OUT NOW!
+
+The wait is finally over for the highly anticipated CCG debut album. Now available for mail order worldwide from "Record Shop X":http://www.recordshopx.com/artist/cold_cold_ground/this_side_of_depravity/. 
+
+In Finland the album is also available at a record store near you!
+
+<hr />
+
 <div class="date">Aug 17th, 2010</div>
 
 h3. This Side of Depravity listening party
