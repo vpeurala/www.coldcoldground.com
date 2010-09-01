@@ -5,6 +5,14 @@ active: news
 ---
 <hr />
 
+<div class="date">Sep 1st, 2010</div>
+
+h3. Cold Cold Ground goes to Russia
+
+CCG has been booked to play at Club Arctica, St. Petersburg, at their annual Halloween party. See you there!
+
+<hr />
+
 <div class="date">Aug 23th, 2010</div>
 
 h3. Thanks to everybody at Helsinki and Tampere shows
