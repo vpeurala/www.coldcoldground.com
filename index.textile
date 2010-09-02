@@ -5,6 +5,14 @@ active: news
 ---
 <hr />
 
+<div class="date">Set 2nd, 2010</div>
+
+h3. Warming up for Project Pitchfork
+
+Cold Cold Ground will support "Project Pitchfork":http://www.pitchfork.de/englisch.html at Gloria, Helsinki, on Friday 22.10.2010. Welcome everybody!
+
+<hr />
+
 <div class="date">Sep 1st, 2010</div>
 
 h3. Cold Cold Ground goes to Russia
