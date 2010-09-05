@@ -5,7 +5,6 @@ active: events
 ---
 h3. Upcoming shows
 
-| Thu | 02/09/2010 | Klubi, Turku                         | w/Apples of Idun |
 | Fri | 22/10/2010 | Gloria, Helsinki                     | w/Project Pitchfork |
 | Sat | 30/10/2010 | Club Arctica, St. Petersburg, Russia | Halloween Party  |
 | Sat | 02/04/2011 | Trash Fest IV, Helsinki              | TBA |
@@ -15,6 +14,7 @@ h3. Upcoming shows
 
 h3. Past shows
 
+| 02/09/2010 | Klubi, Turku | w/Apples of Idun, Epoche |
 | 27/08/2010 | Roihuvuori Festival, Helsinki | w/Notkea Rotta |
 | 20/08/2010 | Dog's Home, Tampere | w/Man.Machine.Industry |
 | 19/08/2010 | On the Rocks, Helsinki (This Side of Depravity release party) | w/Man.Machine.Industry |
