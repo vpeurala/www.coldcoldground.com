@@ -5,7 +5,7 @@ active: news
 ---
 <hr />
 
-<div class="date">Set 2nd, 2010</div>
+<div class="date">Sep 2nd, 2010</div>
 
 h3. Warming up for Project Pitchfork
 
