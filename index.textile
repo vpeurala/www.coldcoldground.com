@@ -5,6 +5,16 @@ active: news
 ---
 <hr />
 
+<div class="date">Oct 1st, 2010</div>
+
+h3. St. Petersburg show cancelled, lineup changes coming
+
+Unfortunately CCG has had to cancel St. Petersburg show on Halloween. The reason for this is that the band's lineup is changing. Further information about this will be published when the situation has stabilized. 
+
+Cold Cold Ground is really sorry about this. The band hopes to play in Russia in the near future when the new lineup is ready for it.
+
+<hr />
+
 <div class="date">Sep 2nd, 2010</div>
 
 h3. Warming up for Project Pitchfork
