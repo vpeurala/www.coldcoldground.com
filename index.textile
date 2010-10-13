@@ -7,9 +7,9 @@ active: news
 
 <div class="date">Oct 13th, 2010</div>
 
-h3. Mr. H.Dine plays drums in Gloria
+h3. Mr. H.Dine plays drums at Gloria
 
-We have a guest star. Mysterious Mr. H.Dine will play drums in Gloria on 22.10.2010 when CCG supports Project Pitchfork. 
+We have a guest star. Mysterious Mr. H.Dine will play drums at Gloria on 22.10.2010 when CCG supports Project Pitchfork. 
 
 <hr />
 
