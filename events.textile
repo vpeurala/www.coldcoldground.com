@@ -5,8 +5,7 @@ active: events
 ---
 h3. Upcoming shows
 
-| Fri | 22/10/2010 | Gloria, Helsinki                     | w/Project Pitchfork |
-| Sat | 04/12/2010 | Semifinal, Helsinki                  | w/Evestus, Apples of Idun |
+| Sat | 04/12/2010 | Semifinal, Helsinki                  | w/Evestus (EST), Apples of Idun |
 | Sat | 02/04/2011 | Trash Fest IV, Helsinki              | TBA |
 
 <br />
@@ -14,6 +13,7 @@ h3. Upcoming shows
 
 h3. Past shows
 
+| 22/10/2010 | Gloria, Helsinki | w/Project Pitchfork |
 | 02/09/2010 | Klubi, Turku | w/Apples of Idun, Epoche |
 | 27/08/2010 | Roihuvuori Festival, Helsinki | w/Notkea Rotta |
 | 20/08/2010 | Dog's Home, Tampere | w/Man.Machine.Industry |
