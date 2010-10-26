@@ -5,36 +5,34 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
 <title>{{ page.title }}</title>
 <!--[if lt IE 8]>
-<script src="http://ie7-js.googlecode.com/svn/version/2.1%28beta3%29/IE9.js" type="text/javascript"></script>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1%28beta4%29/IE9.js" type="text/javascript"></script>
 <![endif]-->
-<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.2/prototype.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/scriptaculous.js?load=effects,builder"></script>
-<script type="text/javascript" src="js/lightbox.js"></script>
-<link rel="stylesheet" href="lightbox.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="coldcoldground.css" type="text/css" media="screen" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script> 
+<script type="text/javascript" src="balupton-jquery-lightbox/scripts/jquery.lightbox.min.js"></script>
+<link rel="stylesheet" href="css/coldcoldground.css" type="text/css" media="screen" />
+<link href='http://fonts.googleapis.com/css?family=Cuprum&subset=latin' rel='stylesheet' type='text/css'>
 </head>
 <body>
 <div id="header">
-	<img src="logomyspace3.jpg" alt="Cold Cold Ground"></img>
+	<a href="index.html"><img src="images/logomyspace3.jpg" alt="Cold Cold Ground"></img></a>
 	<div id="centeredmenu">
 	<ul>
-		<li><a href="index.html" {% if page.active == "news" %} class="selected" {% endif %}><img src="menu_news.gif" alt="News" /></a></li>
-		<li><a href="events.html" {% if page.active == "events" %} class="selected" {% endif %}><img src="menu_events.gif" alt="Events" /></a></li>
-		<li><a href="band.html" {% if page.active == "band" %} class="selected" {% endif %}><img src="menu_band.gif" alt="Band" /></a></li>
-		<li><a href="music.html" {% if page.active == "music" %} class="selected" {% endif %}><img src="menu_music.gif" alt="Music" /></a></li>
-		<li><a href="video.html" {% if page.active == "video" %} class="selected" {% endif %}><img src="menu_video.gif" alt="Video" /></a></li>
-		<li><a href="photos.html" {% if page.active == "photos" %} class="selected" {% endif %}><img src="menu_photos.gif" alt="Photos" /></a></li>
-		<li><a href="contact.html" {% if page.active == "contact" %} class="selected" {% endif %}><img src="menu_contact.gif" alt="Contact" /></a></li>
-		<li><a href="http://www.myspace.com/coldcoldground" target="_blank"><img src="menu_myspace.gif" alt="MySpace" /></a></li>
-		<li><a href="http://www.facebook.com/pages/Cold-Cold-Ground/10293065902" target="_blank"><img src="menu_facebook.gif" alt="Facebook" /></a></li>
-		<li><a href="http://www.youtube.com/nowrotteninside" target="_blank"><img src="menu_youtube.gif" alt="YouTube" /></a></li>
-		<li><a href="http://twitter.com/nowrotteninside" target="_blank"><img src="menu_twitter.gif" alt="Twitter" /></a></li>
+		<li><a href="index.html" {% if page.active == "news" %} class="selected" {% endif %}><span>NEWS</span></a></li>
+		<li><a href="events.html" {% if page.active == "events" %} class="selected" {% endif %}><span>EVENTS</span></a></li>
+		<li><a href="band.html" {% if page.active == "band" %} class="selected" {% endif %}><span>BAND</span></a></li>
+		<li><a href="music.html" {% if page.active == "music" %} class="selected" {% endif %}><span>MUSIC</span></a></li>
+		<li><a href="video.html" {% if page.active == "video" %} class="selected" {% endif %}><span>VIDEO</span></a></li>
+		<li><a href="photos.html" {% if page.active == "photos" %} class="selected" {% endif %}><span>PHOTOS</span></a></li>
+		<li><a href="contact.html" {% if page.active == "contact" %} class="selected" {% endif %}><span>CONTACT</span></a></li>
+		<li><a href="http://www.myspace.com/coldcoldground" target="_blank"><img src="images/menu_myspace.gif" alt="MySpace" /></a></li>
+		<li><a href="http://www.facebook.com/pages/Cold-Cold-Ground/10293065902" target="_blank"><img src="images/menu_facebook.gif" alt="Facebook" /></a></li>
+		<li><a href="http://www.youtube.com/nowrotteninside" target="_blank"><img src="images/menu_youtube.gif" alt="YouTube" /></a></li>
+		<li><a href="http://twitter.com/nowrotteninside" target="_blank"><img src="images/menu_twitter.gif" alt="Twitter" /></a></li>
 	</ul>
 	</div>
 </div>
 
-<div class="colmask rightmenu">
+<div class="colmask">
 	<div class="colleft">
 		<div class="col1">
 			{{ content }}
@@ -52,10 +50,10 @@
                         <p>Saturday 2.4.2011 - Trash Fest IV, Helsinki</p>
 			<!-- Column 2 end -->
                         <br />
-                        <a href="http://www.recordshopx.com/artist/cold_cold_ground/this_side_of_depravity/"><img src="this_side_of_depravity.jpg" alt="This Side of Depravity"></img></a>
+                        <a href="http://www.recordshopx.com/artist/cold_cold_ground/this_side_of_depravity/"><img src="images/this_side_of_depravity.jpg" alt="This Side of Depravity"></img></a>
                         <p>Order "This Side of Depravity" CD from <a href="http://www.recordshopx.com/artist/cold_cold_ground/this_side_of_depravity/">Record Shop X</a></p> 
                         <br />
-                        <img src="Dis_banner.jpg" alt="Disintegrating"></img>
+                        <img src="images/Dis_banner.jpg" alt="Disintegrating"></img>
                         <h3>Buy it from:</h3>
                         <a href="http://itunes.apple.com/us/album/disintegrating/id377876630?i=377876674&ign-mpt=uo%3D4"><b>iTunes</b> (Any country)</a>
                         <br />

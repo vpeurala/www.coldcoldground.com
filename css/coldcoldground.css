@@ -5,20 +5,19 @@ body {
   width: 100%;
   font-size: 80%;
   font-family: "arial", "sans-serif";
-  background-image: url("ccg_wallpaper1.jpg");
+  background-image: url("http://i1041.photobucket.com/albums/b415/MrBunny_ColdColdGround/ccg_wallpaper1.jpg");
   background-repeat: no-repeat;
   background-position: top center;
   background-attachment: fixed;
   background-color: #000000;
   color: #ffffff;
 }
-a { color: #888888; }
+a { color: #aaaaaa; }
 a:hover {
   color: #000000;
   background-color: #aaaaaa;
-  text-decoration: none;
 }
-h1, h2, h3 {
+h3 {
   margin: 0.8em 0 0.2em 0;
   padding: 0;
 }
@@ -27,8 +26,7 @@ p {
   padding: 0;
 }
 img {
-  margin: 10px 0 5px;
-  padding: 0;
+  color: #000000;
 }
 #header {
   clear: both;
@@ -36,18 +34,12 @@ img {
   width: 100%;
   text-align: center;
 }
-#header h1 { text-align: center; }
-#header h1 img {
-  display: block;
-  top: 0px;
-  text-align: center;
+#header a {
+  color: #000000;
 }
-#layoutdims {
-  clear: both;
+#header a:hover {
+  color: #000000;
   background-color: #000000;
-  margin: 0;
-  padding: 6px 15px;
-  text-align: right;
 }
 .colmask {
   position: relative;
@@ -57,8 +49,21 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  background: #222222;
 }
-.colright, .colmid, .colleft {
+.colmask .colleft {
+  right: 40%;
+  background: #000000;
+}
+.colmask .col1 {
+  width: 56%;
+  left: 42%;
+}
+.colmask .col2 {
+  width: 36%;
+  left: 46%;
+}
+.colleft {
   float: left;
   width: 100%;
   position: relative;
@@ -70,33 +75,16 @@ img {
   overflow: hidden;
   background-color: #000000;
 }
-.col2, .col3 {
+.col2 {
   float: left;
   position: relative;
   padding: 0 0 1em 0;
   overflow: hidden;
 }
-.rightmenu { background: #222222; }
-.rightmenu .colleft {
-  right: 40%;
-  background: #000000;
-}
-.rightmenu .col1 {
-  width: 56%;
-  left: 42%;
-}
-.rightmenu .col2 {
-  width: 36%;
-  left: 46%;
-}
 #footer {
   clear: both;
   float: left;
   width: 100%;
-}
-#footer p {
-  padding: 10px;
-  margin: 0;
 }
 #centeredmenu {
   background-color: #000000;
@@ -118,7 +106,7 @@ img {
   left: 50%;
   text-align: center;
 }
-#centeredmenu ul li {
+#centeredmenu li {
   display: block;
   float: left;
   list-style: none;
@@ -127,20 +115,29 @@ img {
   position: relative;
   right: 50%;
 }
-#centeredmenu ul li a {
+#centeredmenu li a {
   display: block;
   margin: 0 0 0 1px;
   padding: 3px 10px;
   background-color: #000000;
-  color: #000000;
+  color: #aaaaaa;
   text-decoration: none;
   line-height: 1.3em;
+  font-weight: bold;
 }
-#centeredmenu ul li a:hover { color: #888888; }
-#centeredmenu ul li a.selected { color: #888888; }
-#centeredmenu ul li a.selected:hover { color: #888888; }
+#centeredmenu li a:hover { 
+  color: #000000;
+  background-color: #aaaaaa;
+}
+#centeredmenu li a.selected { color: #ffffff; }
+#centeredmenu li a.selected:hover {
+  color: #000000;
+  background-color: #aaaaaa;
+}
+#centeredmenu li span { font-family: "Cuprum", "arial", "sans-serif"; }
 .date {
   float: right;
   padding-left: 1em;
   font-size: 90%;
 }
+
