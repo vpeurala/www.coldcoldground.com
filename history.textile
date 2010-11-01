@@ -5,6 +5,16 @@ active: news
 ---
 h1. All news since the beginning of time (January 2004)
 
+<hr /> 
+
+<div class="date">Oct 25th, 2010</div>
+
+h3. Cold Cold Ground has a new drummer
+
+H.Dine, who played drums at the Gloria show last Friday, has now officially become a member of Cold Cold Ground. He brings a tremendous amount of energy and new ideas to the table, not to mention his monstrously hard and tight drumming. Check him out at Semifinal on the 4th of December! 
+
+Sadly, this also means that Monsieur Beau is no longer in the band. Hauptmann D, Mr. Bunny and NooZ want to thank Beau for being a friend and a bandmate for the past three years. They also wish him the best of luck with whatever he decides to do in the future. 
+
 <hr />
 
 <div class="date">Oct 13th, 2010</div>

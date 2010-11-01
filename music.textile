@@ -5,7 +5,7 @@ active: music
 ---
 h3. This Side of Depravity (18.8.2010) - "ORDER":http://www.recordshopx.com/artist/cold_cold_ground/this_side_of_depravity/
 
-!{float: right;}this_side_of_depravity2.jpg!
+!{float: right;}images/this_side_of_depravity2.jpg!
 # You Will Break
 # Pigs
 # Warden
@@ -24,7 +24,7 @@ h3. This Side of Depravity (18.8.2010) - "ORDER":http://www.recordshopx.com/arti
 
 h3. Disintegrating single (5.7.2010) - ORDER FROM THE LINKS ON THE RIGHT SIDEBAR
 
-!{float: right;}disintegrating2.jpg!
+!{float: right;}images/disintegrating2.jpg!
 # Disintegrating
 <br />
 <br />
@@ -34,7 +34,7 @@ h3. Disintegrating single (5.7.2010) - ORDER FROM THE LINKS ON THE RIGHT SIDEBAR
 
 h3. Blue Light Circus EP (February 2008) - SOLD OUT
 
-!{float: right;}blue_light_circus_kansi.jpg!
+!{float: right;}images/blue_light_circus_kansi.jpg!
 # Warden
 # Pseudo Life
 # Blue Light Circus
@@ -46,7 +46,7 @@ h3. Blue Light Circus EP (February 2008) - SOLD OUT
 
 h3. Custom Built EP (October 2006) - SOLD OUT
 
-!{float: right;}custom_built_kansi.jpg!
+!{float: right;}images/custom_built_kansi.jpg!
 # Present Day Hate
 # Dice Man
 # Custom Built
@@ -60,7 +60,7 @@ h3. Custom Built EP (October 2006) - SOLD OUT
 
 h3. Lamb EP (September 2005) - SOLD OUT
 
-!{float: right;}lamb_kansi.jpg!
+!{float: right;}images/lamb_kansi.jpg!
 # Lamb
 # Fulfilled
 # Transhumanist
