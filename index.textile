@@ -3,27 +3,72 @@ layout: default
 title: Cold Cold Ground - News
 active: news
 ---
+<hr />
+
+<div class="date">Nov 24th, 2010</div>
+
+h3(#n_24_11_2010). New shows confirmed in Helsinki, Tampere and Hyvink&auml;&auml;
+
+Cold Cold Ground has three new confirmed gigs: 
+* 3.2.2011 at Club Prkl, Helsinki
+* 10.3.2011 at Vastavirta-klubi, Tampere
+* 11.3.2011 at Pelikentt&auml;, Hyvink&auml;&auml;
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_24_11_2010" addthis:title="Cold Cold Ground News - 24.11.2010: New shows confirmed in Helsinki, Tampere and Hyvink&auml;&auml;">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
 <hr /> 
 
 <div class="date">Oct 25th, 2010</div>
 
-h3. Cold Cold Ground has a new drummer
+h3(#n_25_10_2010). Cold Cold Ground has a new drummer
 
 H.Dine, who played drums at the Gloria show last Friday, has now officially become a member of Cold Cold Ground. He brings a tremendous amount of energy and new ideas to the table, not to mention his monstrously hard and tight drumming. Check him out at Semifinal on the 4th of December! 
 
 Sadly, this also means that Monsieur Beau is no longer in the band. Hauptmann D, Mr. Bunny and NooZ want to thank Beau for being a friend and a bandmate for the past three years. They also wish him the best of luck with whatever he decides to do in the future. 
 
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-  var disqus_title = "Cold Cold Ground has a new drummer"
-  var disqus_identifier = "25.10.2010";
-  (function() {
-   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-   dsq.src = 'http://coldcoldground.disqus.com/embed.js';
-   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=coldcoldground">comments powered by Disqus.</a></noscript>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_25_10_2010" addthis:title="Cold Cold Ground News - 25.10.2010: Cold Cold Ground has a new drummer">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
+<div class="date">Oct 13th, 2010</div>
+
+h3(#n_13_10_2010). H.Dine plays drums at Gloria
+
+Cold Cold Ground has a guest star. Mysterious Mr. H.Dine will play drums at Gloria on 22.10.2010 when CCG supports Project Pitchfork. 
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_13_10_2010" addthis:title="Cold Cold Ground News - 13.10.2010: H.Dine plays drums at Gloria">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
+<div class="date">Oct 1st, 2010</div>
+
+h3(#n_1_10_2010). St. Petersburg show cancelled, lineup changes coming
+
+Unfortunately CCG has had to cancel St. Petersburg show on Halloween. The reason for this is that the band's lineup is changing. Further information about this will be published when the situation has stabilized. 
+
+Cold Cold Ground is really sorry about this. The band hopes to play in Russia in the near future when the new lineup is ready for it.
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_1_10_2010" addthis:title="Cold Cold Ground News - 1.10.2010: St. Petersburg show cancelled, lineup changes coming">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
+<div class="date">Sep 2nd, 2010</div>
+
+h3(#n_2_9_2010). Warming up for Project Pitchfork
+
+Cold Cold Ground will support "Project Pitchfork":http://www.pitchfork.de/englisch.html at Gloria, Helsinki, on Friday 22.10.2010. Welcome everybody!
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_2_9_2010" addthis:title="Cold Cold Ground News - 2.9.2010: Warming up for Project Pitchfork">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
 
 h3. "Older News (History of Cold Cold Ground)":history.html
 

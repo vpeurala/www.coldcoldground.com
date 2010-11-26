@@ -6,7 +6,10 @@ active: events
 h3. Upcoming shows
 
 | Sat | 04/12/2010 | Semifinal, Helsinki                  | w/Evestus (EST), Apples of Idun |
+| Thu | 03/02/2011 | Club Prkl, Helsinki ||
 | Fri | 04/03/2011 | S-Osis, Turku                        | w/V for Violence, Apples of Idun |
+| Thu | 10/03/2011 | Vastavirta-klubi, Tampere            | w/V for Violence |
+| Fri | 11/03/2011 | Pelikentt&auml;, Hyvink&auml;&auml;  | w/V for Violence, Thai Massacre |
 | Sat | 02/04/2011 | Trash Fest IV, Helsinki              | TBA |
 
 <br />
