@@ -5,6 +5,22 @@ active: news
 ---
 <hr />
 
+<div class="date">Nov 29th, 2010</div>
+
+h3(#n_29_11_2010). Night of the Finest Machines
+
+!images/semifinalposter2.jpg!
+
+This Friday (4.12.), Semifinal is going to explode from the roar of three evil machine-powered bands: Cold Cold Ground, Evestus (from Estonia) and Apples of Idun! 
+
+Tickets from "http://www.tiketti.fi/tapahtuma/9461":http://www.tiketti.fi/tapahtuma/9461
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_29_11_2010" addthis:title="Cold Cold Ground News - 29.11.2010: Night of the Finest Machines">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Nov 24th, 2010</div>
 
 h3(#n_24_11_2010). New shows confirmed in Helsinki, Tampere and Hyvink&auml;&auml;
