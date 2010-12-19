@@ -5,18 +5,19 @@ active: events
 ---
 h3. Upcoming shows
 
-| Sat | 04/12/2010 | Semifinal, Helsinki                  | w/Evestus (EST), Apples of Idun |
-| Thu | 03/02/2011 | Club Prkl, Helsinki ||
+| Fri | 07/01/2011 | Virgin Oil Co., Helsinki             | w/Kinetik Control, End of You    |
+| Thu | 03/02/2011 | Club Prkl, Helsinki                  |                                  |
 | Fri | 04/03/2011 | S-Osis, Turku                        | w/V for Violence, Apples of Idun |
-| Thu | 10/03/2011 | Vastavirta-klubi, Tampere            | w/V for Violence |
-| Fri | 11/03/2011 | Pelikentt&auml;, Hyvink&auml;&auml;  | w/V for Violence, Thai Massacre |
-| Sat | 02/04/2011 | Trash Fest IV, Helsinki              | TBA |
+| Thu | 10/03/2011 | Vastavirta-klubi, Tampere            | w/V for Violence                 |
+| Fri | 11/03/2011 | Pelikentt&auml;, Hyvink&auml;&auml;  | w/V for Violence, Thai Massacre  |
+| Sat | 02/04/2011 | Trash Fest IV, Helsinki              | TBA                              |
 
 <br />
 <br />
 
 h3. Past shows
 
+| 04/12/2010 | Semifinal, Helsinki | w/Evestus (EST), Apples of Idun |
 | 22/10/2010 | Gloria, Helsinki | w/Project Pitchfork |
 | 02/09/2010 | Klubi, Turku | w/Apples of Idun, Epoche |
 | 27/08/2010 | Roihuvuori Festival, Helsinki | w/Notkea Rotta |

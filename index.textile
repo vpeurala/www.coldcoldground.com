@@ -5,6 +5,14 @@ active: news
 ---
 <hr />
 
+<div class="date">Dec 17th, 2010</div>
+
+h3(#n_17_12_2010). At Virgin Oil Co. on 7th January
+
+Cold Cold Ground plays at Virgin Oil Co. on 7.1.2011 with "Kinetik Control":http://www.kinetikcontrol.com/ and "End of You":http://endofyou.net/. See you there!
+
+<hr />
+
 <div class="date">Nov 29th, 2010</div>
 
 h3(#n_29_11_2010). Night of the Finest Machines
