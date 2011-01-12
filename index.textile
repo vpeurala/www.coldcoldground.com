@@ -5,11 +5,29 @@ active: news
 ---
 <hr />
 
+<div class="date">Jan 12th, 2011</div>
+
+h3(#n_12_1_2011). H.Dine and Mr. Bunny DJing at Henry's Pub, Helsinki, on Thursday 13.1.2011
+
+Cold Cold Ground in its entirety won't be there, but now everybody has a chance to hear Mr. Bunny's and H.Dine's favorite records at Helatorstai-Klubi (Henry's Pub, Helsinki). Their DJ set starts at 21:00 on Thursday 13.1.2011 (tomorrow!) Be there if you like diversity.
+
+"Facebook event":http://www.facebook.com/event.php?eid=122462527822317
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_12_1_2011" addthis:title="Cold Cold Ground News - 12.1.2010: H.Dine and Mr. Bunny DJing at Henry's Pub, Helsinki, on Thursday 13.1.2011">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Dec 17th, 2010</div>
 
 h3(#n_17_12_2010). At Virgin Oil Co. on 7th January
 
 Cold Cold Ground plays at Virgin Oil Co. on 7.1.2011 with "Kinetik Control":http://www.kinetikcontrol.com/ and "End of You":http://endofyou.net/. See you there!
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_17_12_2010" addthis:title="Cold Cold Ground News - 17.12.2010: At Virgin Oil Co. on 7th January">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
 
 <hr />
 
