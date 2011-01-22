@@ -5,11 +5,13 @@ active: events
 ---
 h3. Upcoming shows
 
-| Thu | 03/02/2011 | Club Prkl, Helsinki                  |                                  |
-| Fri | 04/03/2011 | S-Osis, Turku                        | w/V for Violence, Apples of Idun |
-| Thu | 10/03/2011 | Vastavirta-klubi, Tampere            | w/V for Violence                 |
-| Fri | 11/03/2011 | Pelikentt&auml;, Hyvink&auml;&auml;  | w/V for Violence, Thai Massacre  |
-| Sat | 02/04/2011 | Trash Fest IV, Helsinki              | TBA                              |
+| Thu | 03/02/2011 | Club Prkl, Helsinki                        |                                      |
+| Fri | 04/03/2011 | S-Osis, Turku                              | w/V for Violence, Apples of Idun     |
+| Sat | 05/03/2011 | Pub Norris, Karjaa                         | w/V for Violence                     |
+| Thu | 10/03/2011 | Vastavirta-klubi, Tampere                  | w/V for Violence, Scorngrain         |
+| Fri | 11/03/2011 | Pelikentt&auml;, Hyvink&auml;&auml;        | w/V for Violence, Thai Massacre      |
+| Sat | 12/03/2011 | Bar B&auml;kk&auml;ri/Green Room, Helsinki | w/V for Violence                     |
+| Sat | 02/04/2011 | Trash Fest IV, Helsinki                    | TBA                                  |
 
 <br />
 <br />
