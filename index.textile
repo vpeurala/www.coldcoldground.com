@@ -23,6 +23,8 @@ h3(#n_22_1_2011). Cold Cold Ground and V For Violence tour together in March
 
 This touring freakshow will perform in 5 cities in Southern Finland: Turku, Karjaa, Tampere, Hyvink&auml;&auml; and Helsinki. It is called TURPASHOKKI MMXI. You must see it.
 
+!images/turpashokki.png!
+
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_22_1_2011" addthis:title="Cold Cold Ground News - 22.1.2010: Cold Cold Ground and V for Violence tour together in March">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
 <!-- AddThis Button END -->
