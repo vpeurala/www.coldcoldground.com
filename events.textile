@@ -5,7 +5,6 @@ active: events
 ---
 h3. Upcoming shows
 
-| Thu | 03/02/2011 | Club Prkl, Helsinki                        |                                      |
 | Fri | 04/03/2011 | S-Osis, Turku                              | w/V for Violence, Apples of Idun     |
 | Sat | 05/03/2011 | Pub Norris, Karjaa                         | w/V for Violence                     |
 | Thu | 10/03/2011 | Vastavirta-klubi, Tampere                  | w/V for Violence, Scorngrain         |
@@ -18,6 +17,7 @@ h3. Upcoming shows
 
 h3. Past shows
 
+| 03/02/2011 | Club Prkl, Helsinki                  | w/Mantequilla |
 | 07/01/2011 | Virgin Oil Co., Helsinki             | w/Kinetik Control, End of You    |
 | 04/12/2010 | Semifinal, Helsinki | w/Evestus (EST), Apples of Idun |
 | 22/10/2010 | Gloria, Helsinki | w/Project Pitchfork |
