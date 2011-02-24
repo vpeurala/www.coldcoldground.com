@@ -5,6 +5,16 @@ active: news
 ---
 <hr />
 
+<div class="date">Feb 24th, 2011</div>
+
+h3(#n_24_2_2011). Cold Cold Ground signs with Danse Macabre Records
+
+Cold Cold Ground has signed a Europe-wide deal with German record label "Danse Macabre Records":http://www.dansemacabre-group.com/. CCG's album This Side of Depravity will be published in the whole of Europe on 21st of April, 2011.
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_24_2_2011" addthis:title="Cold Cold Ground News - 24.2.2011: Cold Cold Ground signs with Danse Macabre Records">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_24_2_2011" addthis:title="Cold Cold Ground News - 24.2.2011: Cold Cold Ground signs with Danse Macabre Records"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_24_2_2011" addthis:title="Cold Cold Ground News - 24.2.2011: Cold Cold Ground signs with Danse Macabre Records"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<hr />
+
 <div class="date">Feb 7th, 2011</div>
 
 h3(#n_7_2_2011). Thanks to Chicks With Dicks and everybody else
@@ -12,7 +22,7 @@ h3(#n_7_2_2011). Thanks to Chicks With Dicks and everybody else
 Cold Cold Ground performed last Thursday at Chicks With Dicks Club (@ PRKL, Kaisaniemi, Helsinki). It was a weird and funny experience. Thanks to everybody involved - especially "Mantequilla":http://www.myspace.com/mqarocks, "Marek":http://www.marek.fi/, and the Chicks With Dicks themselves.  
 
 <!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_7_2_2011" addthis:title="Cold Cold Ground News - 7.2.2010: Thanks to Chicks With Dicks and everybody else">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_7_2_2011" addthis:title="Cold Cold Ground News - 7.2.2010: Thanks to Chicks With Dicks and everybody else"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_7_2_2011" addthis:title="Cold Cold Ground News - 7.2.2010: Thanks to Chicks With Dicks and everybody else"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_7_2_2011" addthis:title="Cold Cold Ground News - 7.2.2011: Thanks to Chicks With Dicks and everybody else">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_7_2_2011" addthis:title="Cold Cold Ground News - 7.2.2011: Thanks to Chicks With Dicks and everybody else"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_7_2_2011" addthis:title="Cold Cold Ground News - 7.2.2011: Thanks to Chicks With Dicks and everybody else"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
 <!-- AddThis Button END -->
 
 <hr />
@@ -26,7 +36,7 @@ This touring freakshow will perform in 5 cities in Southern Finland: Turku, Karj
 !images/turpashokki.png!
 
 <!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_22_1_2011" addthis:title="Cold Cold Ground News - 22.1.2010: Cold Cold Ground and V for Violence tour together in March">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_22_1_2011" addthis:title="Cold Cold Ground News - 22.1.2010: Cold Cold Ground and V for Violence tour together in March"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_22_1_2011" addthis:title="Cold Cold Ground News - 22.1.2010: Cold Cold Ground and V for Violence tour together in March"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_22_1_2011" addthis:title="Cold Cold Ground News - 22.1.2011: Cold Cold Ground and V for Violence tour together in March">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_22_1_2011" addthis:title="Cold Cold Ground News - 22.1.2011: Cold Cold Ground and V for Violence tour together in March"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_22_1_2011" addthis:title="Cold Cold Ground News - 22.1.2011: Cold Cold Ground and V for Violence tour together in March"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
 <!-- AddThis Button END -->
 
 <hr />
@@ -40,7 +50,7 @@ Cold Cold Ground in its entirety won't be there, but now everybody has a chance 
 "Facebook event":http://www.facebook.com/event.php?eid=122462527822317
 
 <!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_12_1_2011" addthis:title="Cold Cold Ground News - 12.1.2010: H.Dine and Mr. Bunny DJing at Henry's Pub, Helsinki, on Thursday 13.1.2011">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_12_1_2011" addthis:title="Cold Cold Ground News - 12.1.2010: H.Dine and Mr. Bunny DJing at Henry's Pub, Helsinki, on Thursday 13.1.2011"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_12_1_2011" addthis:title="Cold Cold Ground News - 12.1.2010: H.Dine and Mr. Bunny DJing at Henry's Pub, Helsinki, on Thursday 13.1.2011"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_12_1_2011" addthis:title="Cold Cold Ground News - 12.1.2011: H.Dine and Mr. Bunny DJing at Henry's Pub, Helsinki, on Thursday 13.1.2011">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_12_1_2011" addthis:title="Cold Cold Ground News - 12.1.2011: H.Dine and Mr. Bunny DJing at Henry's Pub, Helsinki, on Thursday 13.1.2011"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_12_1_2011" addthis:title="Cold Cold Ground News - 12.1.2011: H.Dine and Mr. Bunny DJing at Henry's Pub, Helsinki, on Thursday 13.1.2011"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
 <!-- AddThis Button END -->
 
 <hr />
