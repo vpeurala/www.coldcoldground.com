@@ -5,6 +5,33 @@ active: news
 ---
 <hr />
 
+<div class="date">Mar 1st, 2011</div>
+
+h3(#n_1_3_2011). Turpashokki MMXI starts this week!
+
+The most anticipated tour in Finland in Spring 2011, Turpashokki MMXI, starts in Turku next Friday, 4.3.2011! The place is S-Osis and the showtimes go like this:
+
+22:00 V for Violence
+23:00 Cold Cold Ground
+24:00 Apples of Idun
+
+<a href="images/turpashokki_big.png" rel="lightbox-Turpashokki" title="Turpashokki MMXI">
+  <img src="images/turpashokki.png" alt="Turpashokki MMXI" />
+</a>
+
+And don't forget the rest of the tour! Dates:
+
+Saturday 5.3. - Pub Norris, Karjaa
+Thursday 10.3. - Vastavirta-klubi, Tampere
+Friday 11.3. - Pelikentt&auml;, Hyvink&auml;&auml;
+Saturday 12.3. - Bar B&auml;kk&auml;ri / Green Room, Helsinki
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_1_3_2011" addthis:title="Cold Cold Ground News - 1.3.2011: Turpashokki MMXI starts this week!">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_1_3_2011" addthis:title="Cold Cold Ground News - 1.3.2011: Turpashokki MMXI starts this week!"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_1_3_2011" addthis:title="Cold Cold Ground News - 1.3.2011: Turpashokki MMXI starts this week!"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Feb 24th, 2011</div>
 
 h3(#n_24_2_2011). Cold Cold Ground signs with Danse Macabre Records
@@ -13,6 +40,8 @@ Cold Cold Ground has signed a Europe-wide deal with German record label "Danse M
 
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style "><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_24_2_2011" addthis:title="Cold Cold Ground News - 24.2.2011: Cold Cold Ground signs with Danse Macabre Records">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_24_2_2011" addthis:title="Cold Cold Ground News - 24.2.2011: Cold Cold Ground signs with Danse Macabre Records"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_24_2_2011" addthis:title="Cold Cold Ground News - 24.2.2011: Cold Cold Ground signs with Danse Macabre Records"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
 <hr />
 
 <div class="date">Feb 7th, 2011</div>
