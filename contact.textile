@@ -9,19 +9,33 @@ h3. Contact information
 
 h3. Record label 
 
-"Osasto-A":http://www.osastoa.com/
+"Osasto-A":http://www.osastoa.com/ (Finland)
 
 Email: osasto.a@gmail.com
 
 Phone: +358 41 436 1134
 
+"Danse Macabre Records":http://www.dansemacabre-group.com/ (Germany, Europe)
+
+Email: kontakt@dansemacabre.de
+
+Phone: +49 9227 940 000
+
 <hr />
 
 h3. Promotion
 
-Silke Yli-Sirni&ouml; / "Tough Enough Promotion":http://www.myspace.com/toughenoughpromotion
+USA: "Mama Trash":mailto:mamatrash@mamatrash.com / "Mama Trash Promotions Inc":http://www.mamatrash.com/
 
-"Mama Trash":mailto:mamatrash@mamatrash.com / "Mama Trash Promotions Inc":http://www.mamatrash.com/
+Czech Republic: czech.promotion@coldcoldground.com
+
+"Street Team @ Facebook":http://www.facebook.com/pages/Cold-Cold-Ground-Street-Team/195353053822486
+
+<hr />
+
+h3. Booking
+
+management@coldcoldground.com
 
 <hr />
 
@@ -31,7 +45,11 @@ band@coldcoldground.com
 
 "www.coldcoldground.com":http://www.coldcoldground.com/
 
-"www.myspace.com/coldcoldground":http://www.myspace.com/coldcoldground
+"Myspace":http://www.myspace.com/coldcoldground
+
+"Facebook":http://www.facebook.com/coldcoldground
+
+"YouTube":http://www.youtube.com/nowrotteninside
 
 <hr />
 
@@ -39,5 +57,5 @@ h3. Credits for this website
 
 Graphical design by Rhett Podersoo, "Machine Room":http://www.machine-room.com.
 
-Copyright 2010 Cold Cold Ground. All rights reserved.
+Copyright 2011 Cold Cold Ground. All rights reserved.
 
