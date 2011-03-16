@@ -5,6 +5,18 @@ active: news
 ---
 <hr />
 
+<div class="date">Mar 16th, 2011</div>
+
+h3(#n_16_3_2011). Turpashokki MMXI is over, thanks to everyone!
+
+Turpashokki MMXI tour is over, and it was really great. Five cities, wonderful audiences, good bands, loads of fun. Cold Cold Ground would like to thank everyone involved. Special thanks to V For Violence, Cold Cold Ground loves you!
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_16_3_2011" addthis:title="Cold Cold Ground News - 16.3.2011: Turpashokki MMXI is over, thanks to everyone!">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_16_3_2011" addthis:title="Cold Cold Ground News - 16.3.2011: Turpashokki MMXI is over, thanks to everyone!"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_16_3_2011" addthis:title="Cold Cold Ground News - 16.3.2011: Turpashokki MMXI is over, thanks to everyone!"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Mar 1st, 2011</div>
 
 h3(#n_1_3_2011). Turpashokki MMXI starts this week!
