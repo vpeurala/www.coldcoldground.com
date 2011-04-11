@@ -5,13 +5,13 @@ active: events
 ---
 h3. Upcoming shows
 
-| Sat | 02/04/2011 | Trash Fest IV, Helsinki                    | TBA                                  |
 
 <br />
 <br />
 
 h3. Past shows
 
+| 02/04/2011 | Trash Fest IV, Helsinki                    | w/Private Line, Lord of the Lost, Latexxx Teens |
 | 04/03/2011 | S-Osis, Turku                              | w/V for Violence, Apples of Idun     |
 | 05/03/2011 | Pub Norris, Karjaa                         | w/V for Violence                     |
 | 10/03/2011 | Vastavirta-klubi, Tampere                  | w/V for Violence, Scorngrain         |
