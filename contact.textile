@@ -29,14 +29,9 @@ h4. USA
 
 "Mama Trash":mailto:mamatrash@mamatrash.com / "Mama Trash Promotions Inc":http://www.mamatrash.com/
 
-h4. Czech Republic, promotion and booking
+h4. Czech Republic
 
-"Pro Fiart (www.profiart.estranky.cz)":http://www.profiart.estranky.cz
-"profiart.production@seznam.cz":mailto:profiart.production@seznam.cz
-"profiart.production@volny.cz":mailto:profiart.production@volny.cz
-tel.: +420 284 080 180
-mob.: +420 606 808 144
-!images/profiart_logo.jpg!
+czech.promotion@coldcoldground.com
 
 h4. Street Team
 
@@ -45,6 +40,17 @@ h4. Street Team
 <hr />
 
 h3. Booking
+
+h4. Czech Republic
+
+"Pro Fiart (www.profiart.estranky.cz)":http://www.profiart.estranky.cz
+"profiart.production@seznam.cz":mailto:profiart.production@seznam.cz
+"profiart.production@volny.cz":mailto:profiart.production@volny.cz
+tel.: +420 284 080 180
+mob.: +420 606 808 144
+!images/profiart_logo.jpg!
+
+h4. Rest of the world
 
 management@coldcoldground.com
 
