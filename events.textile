@@ -5,6 +5,7 @@ active: events
 ---
 h3. Upcoming shows
 
+No shows confirmed at the moment.
 
 <br />
 <br />
