@@ -5,6 +5,34 @@ active: news
 ---
 <hr />
 
+<div class="date">Jun 13th, 2011</div>
+
+h3(#n_13_6_2011). CCG plays at Findustry 2011
+
+Findustry 2011 is a new festival focused on Finnish industrial/alternative metal. The two-day event will be held at Green Room (Helsinki) from Friday 12.8. to Saturday 13.8., with four bands performing each night. Cold Cold Ground is the headliner of Saturday night, expected showtime for CCG is half past midnight. The first band starts at 22:00.
+
+Be there! The seven other bands are really good too. This is going to be Helsinki's number one industrial event in 2011.
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_13_6_2011" addthis:title="Cold Cold Ground News - 13.6.2011: CCG plays at Findustry 2011">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_13_6_2011" addthis:title="Cold Cold Ground News - 13.6.2011: CCG plays at Findustry 2011"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_13_6_2011" addthis:title="Cold Cold Ground News - 13.6.2011: CCG plays at Findustry 2011"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
+<div class="date">May 3rd, 2011</div>
+
+h3(#n_3_5_2011). TSOD out Europe-wide
+
+This Side of Depravity was released last week in most of Europe. Get your copy at your local music store!
+
+Cold Cold Ground has also been interviewed in latest issues of German music magazines such as Zillo, Sonic Seducer, Legacy and Negatief. "Here you can find an English translation of the Legacy interview.":http://www.starspawn.de/coldcoldground.htm
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_3_5_2011" addthis:title="Cold Cold Ground News - 3.5.2011: TSOD out Europe-wide">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_3_5_2011" addthis:title="Cold Cold Ground News - 3.5.2011: TSOD out Europe-wide"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_3_5_2011" addthis:title="Cold Cold Ground News - 3.5.2011: TSOD out Europe-wide"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Apr 12th, 2011</div>
 
 h3(#n_12_4_2011). Reviews in German publications

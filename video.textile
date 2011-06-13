@@ -3,6 +3,10 @@ layout: default
 title: Cold Cold Ground - Video
 active: video
 ---
+h3. Live at Trash Fest IV, playing "Cocaine in my ass" (April 2011)
+
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/-hBfC5v-2cw?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-hBfC5v-2cw?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
 h3. Music video for You Will Break (May 2010)
 
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/W1bns9RKZ7c&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/W1bns9RKZ7c&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
@@ -10,10 +14,6 @@ h3. Music video for You Will Break (May 2010)
 h3. Music video for Warden (December 2009)
 
 <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/ae6Ircwqg9w&hl=en&fs=1&fmt=18"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ae6Ircwqg9w&hl=en&fs=1&fmt=18" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
-
-h3. Music video for DIYM (December 2008)
-
-<object width="425" height="295"><param name="movie" value="http://www.youtube.com/v/7MksFgdGJdQ&hl=en&fs=1&fmt=18"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/7MksFgdGJdQ&hl=en&fs=1&fmt=18" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="295"></embed></object>
 
 <br />
 <br />

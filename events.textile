@@ -5,9 +5,9 @@ active: events
 ---
 h3. Upcoming shows
 
-No shows confirmed at the moment.
+| Sat 13.8.2011 | Green Room, Helsinki | Findustry 2011 |
+| Wed 7.9.2011 | K17, Berlin, Germany | SUOMI:darkness |
 
-<br />
 <br />
 
 h3. Past shows
