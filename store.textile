@@ -1,0 +1,67 @@
+---
+layout: default
+title: Cold Cold Ground - Store
+active: store
+---
+
+h3. Cold Cold Ground Online Store
+
+<hr />
+
+Here you can order Cold Cold Ground t-shirts, records and other merchandise. 
+
+We ship worldwide. 
+
+Payment is via PayPal. 
+
+<hr />
+
+h3. New Cold Cold Ground T-shirt
+
+Available in both male and female sizes from S to XL.
+
+<a href="images/shirt_new.jpg" rel="lightbox" title="New Cold Cold Ground T-shirt">
+  <img src="images/shirt_new_thumb.jpg" border="0" alt="New Cold Cold Ground T-shirt" />
+</a>
+
+Price: 15 &euro; (+ shipping 3 &euro;)
+
+<hr />
+
+h3. This Side of Depravity T-shirt
+
+Available in both male and female sizes from S to XL.
+
+<a href="images/shirt_tsod.jpg" rel="lightbox" title="This Side of Depravity T-shirt">
+  <img src="images/shirt_tsod_thumb.jpg" border="0" alt="This Side of Depravity T-shirt" />
+</a>
+
+Price: 15 &euro; (+ shipping 3 &euro;)
+
+<hr />
+
+h3. This Side of Depravity CD
+
+<a href="images/this_side_of_depravity_huge.jpg" rel="lightbox" title="This Side of Depravity CD">
+  <img src="images/this_side_of_depravity_bigger.jpg" border="0" alt="This Side of Depravity CD" />
+</a>
+
+Price: 15 &euro; (+ shipping 3 &euro;)
+
+<hr />
+
+h3. Special offer: Any T-shirt + TSOD CD
+
+Price together: 25 &euro; (+ shipping 3 &euro;)
+
+<hr />
+
+h3. How to buy:
+
+Send email to "store@coldcoldground.com":mailto:store@coldcoldground.com, specifying the following things: 
+* which products you want to order, and in which amount
+* when ordering T-shirts, also specify the size and gender
+* the shipping address where the products will be sent
+
+We will reply with payment instructions. The payment is via PayPal. 
+
