@@ -18,7 +18,9 @@ Payment is via PayPal.
 
 h3. New Cold Cold Ground T-shirt
 
-Available in both male and female sizes from S to XL.
+Sizes available:
+Male S, M, L, XL
+Female S, M, L
 
 <a href="images/shirt_new.jpg" rel="lightbox" title="New Cold Cold Ground T-shirt">
   <img src="images/shirt_new_thumb.jpg" border="0" alt="New Cold Cold Ground T-shirt" />
@@ -30,7 +32,9 @@ Price: 15 &euro; (+ shipping 3 &euro;)
 
 h3. This Side of Depravity T-shirt
 
-Available in both male and female sizes from S to XL.
+Sizes available:
+Male S, M, L
+Female M, L, XL
 
 <a href="images/shirt_tsod.jpg" rel="lightbox" title="This Side of Depravity T-shirt">
   <img src="images/shirt_tsod_thumb.jpg" border="0" alt="This Side of Depravity T-shirt" />
