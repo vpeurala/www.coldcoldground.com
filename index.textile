@@ -3,6 +3,17 @@ layout: default
 title: Cold Cold Ground - News
 active: news
 ---
+<hr />
+
+<div class="date">Aug 29th, 2011</div>
+
+h3(#n_29_8_2011). Cold Cold Ground has a new member!
+
+The acclaimed drummer *Kunt*, known for his original style, has joined Cold Cold Ground as a percussionist. Cold Cold Ground will thus have five members from now on. Kunt has already performed with CCG a couple of times, but the first official live show of the new lineup will be at K17, Berlin, Germany on 7.9.2011.
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_229.8.2011" addthis:title="Cold Cold Ground News - 29.8.2011: Cold Cold Ground has a new member!">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_229.8.2011" addthis:title="Cold Cold Ground News - 29.8.2011: Cold Cold Ground has a new member!"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_229.8.2011" addthis:title="Cold Cold Ground News - 29.8.2011: Cold Cold Ground has a new member!"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
 
 <hr />
 
