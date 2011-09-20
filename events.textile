@@ -5,12 +5,13 @@ active: events
 ---
 h3. Upcoming shows
 
-| Wed 7.9.2011 | K17, Berlin, Germany | SUOMI:darkness |
+| Wed 28.9.2011 | DOM, Helsinki | w/Fear Of Domination | 
 
 <br />
 
 h3. Past shows
 
+| 07/09/2011 | K17, Berlin, Germany | SUOMI:darkness |
 | 13/08/2011 | Green Room, Helsinki | Findustry 2011 |
 | 02/04/2011 | Trash Fest IV, Helsinki                    | w/Private Line, Lord of the Lost, Latexxx Teens |
 | 04/03/2011 | S-Osis, Turku                              | w/V for Violence, Apples of Idun     |
