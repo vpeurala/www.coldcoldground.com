@@ -5,12 +5,13 @@ active: events
 ---
 h3. Upcoming shows
 
-| Fri 14.10.2011 | Henry's Pub, Kuopio | w/Black Light Discipline |
+| Fri 6.1.2012 | Semifinal, Helsinki | w/V for Violence |
 
 <br />
 
 h3. Past shows
 
+| 14/10/2011 | Henry's Pub, Kuopio | w/Black Light Discipline |
 | 28/09/2011 | DOM, Helsinki | w/Fear Of Domination |
 | 07/09/2011 | K17, Berlin, Germany | SUOMI:darkness |
 | 13/08/2011 | Green Room, Helsinki | Findustry 2011 |
