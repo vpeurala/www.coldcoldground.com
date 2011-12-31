@@ -5,7 +5,7 @@ active: events
 ---
 h3. Upcoming shows
 
-| Fri 6.1.2012 | Semifinal, Helsinki | w/V for Violence |
+| Fri 6.1.2012 | Semifinal, Helsinki | w/V for Violence, Evestus |
 
 <br />
 

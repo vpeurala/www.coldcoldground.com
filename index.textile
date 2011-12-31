@@ -5,6 +5,22 @@ active: news
 ---
 <hr />
 
+<div class="date">Dec 31th, 2011</div>
+
+h3(#n_31_12_2011). Turpakeikka next week
+
+Next Friday, 6.1.2012, everybody should come to Semifinal, Helsinki, because there is going to be an awesome event called "Turpakeikka", featuring Cold Cold Ground, V for Violence and Evestus. Check out the "Facebook event":https://www.facebook.com/events/171092482986951/ for more details.
+
+!images/turpakeikka.jpg!
+
+Happy New Year to everyone!
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_31_12_2011" addthis:title="Cold Cold Ground News - 31.12.2011: Turpakeikka next week">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_31_12_2011" addthis:title="Cold Cold Ground News - 31.12.2011: Turpakeikka next week"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_31_12_2011" addthis:title="Cold Cold Ground News - 31.12.2011: Turpakeikka next week"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Oct 31th, 2011</div>
 
 h3(#n_31_10_2011). Model Citizen released
