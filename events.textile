@@ -5,12 +5,13 @@ active: events
 ---
 h3. Upcoming shows
 
-| Fri 6.1.2012 | Semifinal, Helsinki | w/V for Violence, Evestus |
+No shows scheduled at the moment.
 
 <br />
 
 h3. Past shows
 
+| 06/01/2012 | Semifinal, Helsinki | w/V for Violence, Evestus |
 | 14/10/2011 | Henry's Pub, Kuopio | w/Black Light Discipline |
 | 28/09/2011 | DOM, Helsinki | w/Fear Of Domination |
 | 07/09/2011 | K17, Berlin, Germany | SUOMI:darkness |
