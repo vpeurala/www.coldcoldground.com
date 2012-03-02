@@ -15,7 +15,6 @@ Cold Cold Ground is playing at On the Rocks, Helsinki, tomorrow Friday 10.2.2012
 <div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_9_2_2012" addthis:title="Cold Cold Ground News - 9.2.2012: Surprise show at On the Rocks tomorrow!">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_9_2_2012" addthis:title="Cold Cold Ground News - 9.2.2012: Surprise show at On the Rocks tomorrow!"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_9_2_2012" addthis:title="Cold Cold Ground News - 9.2.2012: Surprise show at On the Rocks tomorrow!"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
 <!-- AddThis Button END -->
 
-
 <hr />
 
 <div class="date">Dec 31th, 2011</div>

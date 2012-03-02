@@ -5,12 +5,14 @@ active: events
 ---
 h3. Upcoming shows
 
-| Friday 10.2.2012 | On the Rocks, Helsinki | |
+| Friday 27.4.2012 | Bar B&auml;kk&auml;ri, Helsinki | Findustry 2012 |
+| Monday 30.4.2012 | Henry's Pub, Kuopio | w/Black Light Discipline |
 
 <br />
 
 h3. Past shows
 
+| 10/02/2012 | On the Rocks, Helsinki | |
 | 06/01/2012 | Semifinal, Helsinki | w/V for Violence, Evestus |
 | 14/10/2011 | Henry's Pub, Kuopio | w/Black Light Discipline |
 | 28/09/2011 | DOM, Helsinki | w/Fear Of Domination |
