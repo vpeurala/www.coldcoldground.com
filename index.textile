@@ -3,6 +3,21 @@ layout: default
 title: Cold Cold Ground - News
 active: news
 ---
+
+<hr />
+
+<div class="date">Apr 25th, 2012</div>
+
+h3(#n_25_4_2012). CCG supporting Turmion k&auml;til&ouml;t at Tavastia on 18.5.
+
+Cold Cold Ground will play at Tavastia, Helsinki, on Friday 18.5.2012, supporting their labelmates from "Osasto-A Records":http://www.osastoa.com, "Turmion k&auml;til&ouml;t":http://www.turmionkatilot.com. More official information about the event is available on "Tavastia's website":http://www.tavastiaklubi.fi/tapahtuma/23258. Buy your tickets in advance from "Tiketti":http://www.tiketti.fi/Turmion-Katilot-Tavastia-klubi-Helsinki-lippuja/15411.
+
+Also, CCG's percussionist Kunt has left the band due to time constraints and him wanting to concentrate on his other band "V For Violence":http://www.vforviolence.com/. There is no drama behind Kunt's departure and everybody will remain friends.
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_25_4_2012" addthis:title="Cold Cold Ground News - 25.4.2012: CCG supporting TK at Tavastia">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_25_4_2012" addthis:title="Cold Cold Ground News - 25.4.2012: CCG supporting TK at Tavastia"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_25_4_2012" addthis:title="Cold Cold Ground News - 25.4.2012: CCG supporting TK at Tavastia"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
 <hr />
 
 <div class="date">Apr 3rd, 2012</div>
