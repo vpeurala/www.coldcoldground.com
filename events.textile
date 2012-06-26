@@ -5,13 +5,14 @@ active: events
 ---
 h3. Upcoming shows
 
-| Friday 18.5.2012 | Tavastia, Helsinki | w/Turmion k&auml;til&ouml;t |
 | Saturday 8.9.2012 | Pub Katse, Jyv&auml;skyl&auml; | w/V for Violence |
+| Friday 12.10.2012 | Monttu, Pori | w/Iiwanajulma, The Physicists |
 
 <br />
 
 h3. Past shows
 
+| 18/05/2012 | Tavastia, Helsinki | w/Turmion k&auml;til&ouml;t |
 | 27/04/2012 | Bar B&auml;kk&auml;ri, Helsinki | Findustry 2012 |
 | 30/04/2012 | Henry's Pub, Kuopio | w/Black Light Discipline |
 | 10/02/2012 | On the Rocks, Helsinki | |
