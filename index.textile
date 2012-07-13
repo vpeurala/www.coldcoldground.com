@@ -3,6 +3,17 @@ layout: default
 title: Cold Cold Ground - News
 active: news
 ---
+<hr />
+
+<div class="date">Jul 13th, 2012</div>
+
+h3(#n_13_7_2012). Tourist video and single are out
+
+New music video for the second single of Cold Cold Ground's upcoming second album is released! Watch it here:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/u2KbdwULaTU" frameborder="0" allowfullscreen></iframe>
+
+You can also buy the single from "iTunes":http://itunes.apple.com/fi/album/tourist-single/id540603802 (if you want to support the band) or download it for free from "SoundCloud":http://soundcloud.com/coldcoldground/tourist.
 
 <hr />
 

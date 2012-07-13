@@ -3,6 +3,10 @@ layout: default
 title: Cold Cold Ground - Video
 active: video
 ---
+h3. Music video for Tourist (July 2012)
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/u2KbdwULaTU" frameborder="0" allowfullscreen></iframe>
+
 h3. Music video for Model Citizen (October 2011)
 
 <object width="425" height="246"><param name="movie" value="http://www.youtube.com/v/cB-weDENSCs?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/cB-weDENSCs?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="425" height="246" allowscriptaccess="always" allowfullscreen="true"></embed></object>
