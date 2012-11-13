@@ -5,6 +5,18 @@ active: news
 ---
 <hr />
 
+<div class="date">Nov 13th, 2012</div>
+
+h3(#n_13_11_2012). NooZ interviewed in Colossus
+
+There is an interview of NooZ in the newest issue of "Colossus":http://www.colossus.fi Magazine.
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_13_11_2012" addthis:title="Cold Cold Ground News - 13.11.2012: NooZ interviewed in Colossus">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_13_7_2012" addthis:title="Cold Cold Ground News - 13.7.2012: NooZ interviewed in Colossus"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_13_7_2012" addthis:title="Cold Cold Ground News - 13.7.2012: NooZ interviewed in Colossus"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Jul 13th, 2012</div>
 
 h3(#n_13_7_2012). Tourist video and single are out
