@@ -13,10 +13,10 @@ h3. Past shows
 
 h4. 2012
 
-| 07/09/2012 | Klubi, Turku | w/Apples of Idun, Unzyme |
-| 08/09/2012 | Pub Katse, Jyv&auml;skyl&auml; | w/Black Light Discipline |
-| 21/09/2012 | On the Rocks, Helsinki | w/Black Light Discipline |
 | 12/10/2012 | Monttu, Pori | w/Iiwanajulma, The Physicists |
+| 21/09/2012 | On the Rocks, Helsinki | w/Black Light Discipline |
+| 08/09/2012 | Pub Katse, Jyv&auml;skyl&auml; | w/Black Light Discipline |
+| 07/09/2012 | Klubi, Turku | w/Apples of Idun, Unzyme |
 | 18/05/2012 | Tavastia, Helsinki | w/Turmion k&auml;til&ouml;t |
 | 27/04/2012 | Bar B&auml;kk&auml;ri, Helsinki | Findustry 2012 |
 | 30/04/2012 | Henry's Pub, Kuopio | w/Black Light Discipline |
