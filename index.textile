@@ -5,6 +5,26 @@ active: news
 ---
 <hr />
 
+<div class="date">Jan 10th, 2013</div>
+
+h3(#n_10_1_2013). Request for video clips
+
+Now you all have a chance to be a part of Cold Cold Ground's next music video. 
+
+What we need:
+Short video clips of friends and fans listening to "Disintegrating" with their earphones on somewhere in their own environment: on the street, on the bus, at home, in the woods, on the shore, whatsoever... The place doesn't matter so much, instead what matters is that the video shows YOU with earphones. You can be incognito as well if you want. These video files can be shot by any camera, mobile phone etc. and can be in any video format (QuickTime (.mov) preferred, though). Please keep the videos short, the perfect length would be 3-10 seconds.
+
+Email the files to: nooz@coldcoldground.com before January 15th 2013. Please also mention the name you want to be shown in the thanks list and include a postal address where your fabulous surprise package can be sent to.
+
+Thank you so much for your help!
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_10_1_2013" addthis:title="Cold Cold Ground News - 10.1.2013: Request for video clips">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_10_1_2013" addthis:title="Cold Cold Ground News - 10.1.2013: Request for video clips"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_10_1_2013" addthis:title="Cold Cold Ground News - 10.1.2013: Request for video clips"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+
+<hr />
+
 <div class="date">Nov 13th, 2012</div>
 
 h3(#n_13_11_2012). NooZ interviewed in Colossus
