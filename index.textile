@@ -5,6 +5,18 @@ active: news
 ---
 <hr />
 
+<div class="date">Jan 23th, 2013</div>
+
+h3(#n_23_1_2013). CCG plays at MetalOrgy
+
+Cold Cold Ground is booked to perform at MetalOrgy festival on Thursday 28th of March. The show is at Nosturi, Helsinki, and you can buy a ticket from "Tiketti":http://www.tiketti.fi/MetalOrgy-Nosturi-Helsinki-lippuja/17571. Other bands on the bill: Turmion K&auml;til&ouml;t, Fear Of Domination, Deathchain. Be there!
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_23_1_2013" addthis:title="Cold Cold Ground News - 23.1.2013: CCG plays at MetalOrgy">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_23_1_2013" addthis:title="Cold Cold Ground News - 23.1.2013: CCG plays at MetalOrgy"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_23_1_2013" addthis:title="Cold Cold Ground News - 23.1.2013: CCG plays at MetalOrgy"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Jan 10th, 2013</div>
 
 h3(#n_10_1_2013). Request for video clips
@@ -21,7 +33,6 @@ Thank you so much for your help!
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_10_1_2013" addthis:title="Cold Cold Ground News - 10.1.2013: Request for video clips">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_10_1_2013" addthis:title="Cold Cold Ground News - 10.1.2013: Request for video clips"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_10_1_2013" addthis:title="Cold Cold Ground News - 10.1.2013: Request for video clips"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
 <!-- AddThis Button END -->
-
 
 <hr />
 

@@ -5,11 +5,15 @@ active: events
 ---
 h3. Upcoming shows
 
-| Friday 11.1.2013 | Bar B&auml;kk&auml;ri, Helsinki | Findustry 2013 |
+| Thursday 28.3.2013 | Nosturi, Helsinki | MetalOrgy |
 
 <br />
 
 h3. Past shows
+
+h4. 2013
+
+| 11/01/2013 | Bar B&auml;kk&auml;ri, Helsinki | Findustry 2013 |
 
 h4. 2012
 
