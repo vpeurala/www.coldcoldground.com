@@ -29,9 +29,11 @@ Mr. Bunny is sponsored by "Intermorphic":http://www.intermorphic.com/.
 
 *Hoker Dine* - Drums
 
-Hoker Dine is sponsored by "Regal Tip":http://www.regaltip.com/
+Hoker Dine is sponsored by "Regal Tip":http://www.regaltip.com/ and "PDP Drums":http://www.pacificdrums.com/.
 
 !images/regal-tip.gif!:http://www.regaltip.com/
+
+!images/pdp_logo.jpg!:http://www.pacificdrums.com/
 
 h3. Ex-members
 
