@@ -48,7 +48,7 @@ h4. Czech Republic
 "profiart.production@volny.cz":mailto:profiart.production@volny.cz
 tel.: +420 284 080 180
 mob.: +420 606 808 144
-!images/profiart_logo.jpg!
+!images/profiart_logo_2.jpg!
 
 h4. Rest of the world
 
