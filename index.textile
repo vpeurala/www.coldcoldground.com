@@ -92,5 +92,5 @@ There is also a "documentary" of "Cold Cold Ground's trip to Berlin last Septemb
 
 <hr />
 
-h3. "Older News (History of Cold Cold Ground)":history.html
+h3. "See older news (history of Cold Cold Ground)":history.html
 
