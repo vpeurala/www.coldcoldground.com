@@ -5,6 +5,18 @@ active: news
 ---
 <hr />
 
+<div class="date">Jul 17th, 2013</div>
+
+h3(#n_17_7_2013). Cold Cold Ground plays at SIKAFEST! on Friday 26.7.2013
+
+CCG is going to perform at SIKAFEST! The place is Bar B&auml;kk&auml;ri, Helsinki. The other bands playing that night are "Drop The Pilot":https://www.facebook.com/dropthepilotofficial and "Riot Vein":https://www.facebook.com/RiotVeinOfficial. Free entry! Facebook event here: "https://www.facebook.com/events/186615211506007/":https://www.facebook.com/events/186615211506007/.
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_17_7_2013" addthis:title="Cold Cold Ground News - 17.7.2013: Cold Cold Ground plays at SIKAFEST! on Friday 26.7.2013">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_17_7_2013" addthis:title="Cold Cold Ground News - 17.7.2013: Cold Cold Ground plays at SIKAFEST! on Friday 26.7.2013"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_17_7_2013" addthis:title="Cold Cold Ground News - 17.7.2013: Cold Cold Ground plays at SIKAFEST! on Friday 26.7.2013"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Apr 9th, 2013</div>
 
 h3(#n_9_4_2013). Special offer &amp; Slezskoostravsk&yacute; Rock-Fest 2013 Open Air
