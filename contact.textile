@@ -62,8 +62,6 @@ band@coldcoldground.com
 
 "www.coldcoldground.com":http://www.coldcoldground.com/
 
-"Myspace":http://www.myspace.com/coldcoldground
-
 "Facebook":http://www.facebook.com/coldcoldground
 
 "YouTube":http://www.youtube.com/nowrotteninside
