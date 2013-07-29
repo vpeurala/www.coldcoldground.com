@@ -5,6 +5,26 @@ active: news
 ---
 <hr />
 
+<div class="date">Jul 29th, 2013</div>
+
+h3(#n_29_7_2013). Cold Cold Ground warms up for Xe-NONE in Turku, Tampere and Helsinki
+
+Russian dance metal band "Xe-NONE":http://www.xe-none.com/ tours Finland in September, and Cold Cold Ground is with them on 3 nights:
+
+Wednesday 4.9. Turku, Klubi
+Thursday 5.9. Tampere, Klubi
+Saturday 7.9. Helsinki, On The Rocks
+
+CCG's old friends "Fear of Domination":http://www.fod.fi/ are also included in all of the above shows.
+
+Here is a KaaosZine article with more details about the tour: "kaaoszine.fi/xe-none-neljalle-keikalle-suomeen-syyskuussa":http://kaaoszine.fi/xe-none-neljalle-keikalle-suomeen-syyskuussa/
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_29_7_2013" addthis:title="Cold Cold Ground News - 29.7.2013: Cold Cold Ground warms up for Xe-NONE in Turku, Tampere and Helsinki">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_29_7_2013" addthis:title="Cold Cold Ground News - 29.7.2013: Cold Cold Ground warms up for Xe-NONE in Turku, Tampere and Helsinki"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_29_7_2013" addthis:title="Cold Cold Ground News - 29.7.2013: Cold Cold Ground warms up for Xe-NONE in Turku, Tampere and Helsinki"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Jul 17th, 2013</div>
 
 h3(#n_17_7_2013). Cold Cold Ground plays at SIKAFEST! on Friday 26.7.2013
