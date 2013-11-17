@@ -3,6 +3,24 @@ layout: default
 title: Cold Cold Ground - Music
 active: music
 ---
+h3. Lies About Ourselves (15.11.2013) - "ORDER":http://www.levykauppax.fi/artist/cold_cold_ground/lies_about_ourselves/#cd
+
+!{float: right;}images/lies_about_ourselves.jpg!
+# My Fist and I
+# Welcome to Hell
+# Suck and Pay
+# Model Citizen
+# We Are the Sun
+# Tourist
+# Cocaine In My Ass
+# Drive
+# Lies About Ourselves
+# Things Fall Apart
+<br />
+<br />
+<br />
+<br />
+
 h3. This Side of Depravity (18.8.2010) - "ORDER":http://www.recordshopx.com/artist/cold_cold_ground/this_side_of_depravity/
 
 !{float: right;}images/this_side_of_depravity2.jpg!

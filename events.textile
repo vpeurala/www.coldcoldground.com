@@ -5,13 +5,9 @@ active: events
 ---
 h3. Upcoming shows
 
-| Thursday 22.8.2013 | "Modra Vopice":http://www.modravopice.eu/, Prague, Czech Republic | w/Abi Gail |
-| Friday 23.8.2013   | Ostrov, Havlickuv Brod, Czech Republic | w/Abi Gail |
-| Saturday 24.8.2013 | Slezskoostravsky Open Air Festival, Ostrava, Czech Republic | |
-| Wednesday 4.9.2013 | Klubi, Turku | w/Xe-NONE, Fear of Domination |
-| Thursday 5.9.2013 | Klubi, Tampere | w/Xe-NONE, Fear of Domination |
-| Saturday 7.9.2013 | On The Rocks, Helsinki | w/Xe-NONE, Fear of Domination |
-| Thursday 3.10.2013 | On the Rocks, Helsinki | Trash Fest VI Kick Off Party |
+| Saturday 23.10.2013 | On the Rocks, Helsinki | Album release party |
+| Friday 13.12.2013   | Kulttuuriareena 44, Kuopio | w/Project Silence, Omniversum |
+| Wednesday 18.12.2013 | Bar Loose, Helsinki       | w/The Closed                  |
 
 <br />
 
@@ -19,6 +15,10 @@ h3. Past shows
 
 h4. 2013
 
+| 03/10/2013 | On the Rocks, Helsinki | Trash Fest VI Kick Off Party |
+| 24/08/2013 | Slezskoostravsky Open Air Festival, Ostrava, Czech Republic | |
+| 23/08/2013 | Ostrov, Havlickuv Brod, Czech Republic | w/Abi Gail |
+| 22/08/2013 | "Modra Vopice":http://www.modravopice.eu/, Prague, Czech Republic | w/Abi Gail |
 | 26/07/2013 | SIKAFEST!, Bar B&auml;kk&auml;ri, Helsinki | w/Drop The Pilot, Riot Vein |
 | 28/03/2013 | Nosturi, Helsinki | MetalOrgy |
 | 11/01/2013 | Bar B&auml;kk&auml;ri, Helsinki | Findustry 2013 |

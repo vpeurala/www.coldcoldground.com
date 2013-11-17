@@ -5,6 +5,50 @@ active: news
 ---
 <hr />
 
+<div class="date">Nov 17th, 2013</div>
+
+h3(#n_17_11_2013). Lies About Ourselves released
+
+Cold Cold Ground's second album, Lies About Ourselves, was released on the 15th of November.
+
+!images/lies_about_ourselves.jpg!
+
+Buy the album:
+
+"iTunes":https://itunes.apple.com/us/album/lies-about-ourselves/id744021897
+
+"Levykauppa X":http://www.levykauppax.fi/artist/cold_cold_ground/lies_about_ourselves/#cd
+
+The album release party will be at On the Rocks on Saturday 23.11. Be there!
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_17_11_2013" addthis:title="Cold Cold Ground News - 17.11.2013: Lies About Ourselves released">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_17_11_2013" addthis:title="Cold Cold Ground News - 17.11.2013: Lies About Ourselves released"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_17_11_2013" addthis:title="Cold Cold Ground News - 17.11.2013: Lies About Ourselves released"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
+<div class="date">Oct 18th, 2013</div>
+
+h3(#n_18_10_2013). Welcome to Hell -single & music video out NOW!
+
+The music video is exclusively streamable at Radio Rock website!
+
+<object type="application/x-shockwave-flash" data="http://nt.sestatic.fi/sites/all/modules/media/Nelonen_mediaplayer_static_latest.swf" width="420" height="260"> <param name="movie" value="http://nt.sestatic.fi/sites/all/modules/media/Nelonen_mediaplayer_static_latest.swf" /> <param name="allowFullscreen" value="true" /> <param name="allowScriptAccess" value="always" /> <param name="gaid" value="UA-3683704-15" /> <param name="wmode" value="direct" /> <param name="salign" value="tl" /> <param name="FlashVars" value="gaid=UA-3683704-15&amp;providerURL=http://arkisto.ruutu.fi/utils/media_configurator/%3Fq%3Dvideo/360785%26site%3Dwww.ruutu.fi&amp;current_page=http://arkisto.ruutu.fi/video&amp;logger_ini=http://gatling.nelonenmedia.fi/file/logger-ini-d6-legacy.xml&amp;timeserver=http://arkisto.nelonen.fi/ajax/ce/get_datetime" /> Flash toistinta ei löytynyt. </object>
+
+Buy the single:
+
+"iTunes":https://itunes.apple.com/fi/album/welcome-to-hell-single/id724384640
+
+"Spotify":http://open.spotify.com/album/1SLLh28qZ0geRmvrS1PDaK
+
+"Amazon":http://www.amazon.com/Welcome-to-Hell-Explicit/dp/B00FYEP3RC/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1382094981&sr=1-1-catcorr&keywords=Cold+Cold+Ground+-+Welcome+To+Hell
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_18_10_2013" addthis:title="Cold Cold Ground News - 18.10.2013: Welcome to Hell single & music video out NOW!">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_18_10_2013" addthis:title="Cold Cold Ground News - 18.10.2013: Welcome to Hell single & music video out NOW!"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_18_10_2013" addthis:title="Cold Cold Ground News - 18.10.2013: Welcome to Hell single & music video out NOW!"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Jul 29th, 2013</div>
 
 h3(#n_29_7_2013). Cold Cold Ground warms up for Xe-NONE in Turku, Tampere and Helsinki
