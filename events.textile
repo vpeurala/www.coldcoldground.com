@@ -5,9 +5,7 @@ active: events
 ---
 h3. Upcoming shows
 
-| Saturday 23.10.2013 | On the Rocks, Helsinki | Album release party |
-| Friday 13.12.2013   | Kulttuuriareena 44, Kuopio | w/Project Silence, Omniversum |
-| Wednesday 18.12.2013 | Bar Loose, Helsinki       | w/The Closed                  |
+No shows scheduled at the moment.
 
 <br />
 
@@ -15,6 +13,10 @@ h3. Past shows
 
 h4. 2013
 
+| 23/11/2013 | On the Rocks, Helsinki | Album release party |
+| 26/10/2013 | We Rock, Madrid, Spain | w/Killus, Black Light Discipline |
+| 25/10/2013 | Paberse Matao, Sedavi (Valencia), Spain | w/Killus, Black Light Discipline |
+| 24/10/2013 | La Boveda, Barcelona, Spain | w/Killus, Black Light Discipline |
 | 03/10/2013 | On the Rocks, Helsinki | Trash Fest VI Kick Off Party |
 | 24/08/2013 | Slezskoostravsky Open Air Festival, Ostrava, Czech Republic | |
 | 23/08/2013 | Ostrov, Havlickuv Brod, Czech Republic | w/Abi Gail |
