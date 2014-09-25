@@ -5,7 +5,7 @@ active: events
 ---
 h3. Upcoming shows
 
-No shows scheduled at the moment.
+| Saturday 13.12.2014 | HRH, Roihuvuori, Helsinki | Cold Cold Ground Funeral Party |
 
 <br />
 

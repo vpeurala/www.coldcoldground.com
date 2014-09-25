@@ -5,6 +5,26 @@ active: news
 ---
 <hr />
 
+<div class="date">Sep 25th, 2014</div>
+
+h3(#n_25_9_2014). Cold Cold Ground quits, last show 13th of December!
+
+The Helsinki-based industrial-punk band Cold Cold Ground (formed 2004) has decided to split up.
+
+For the last time, Cold Cold Ground will be seen live on Saturday 13th of Dec, when the band arranges "an ending party":https://www.facebook.com/events/469485063194607 at "Hard Rock House, Roihuvuori, Helsinki":http://www.hardrockhouse.fi/.
+
+Cold Cold Ground made dozens of shows in Finland and abroad during its career. CCG also published two albums, This Side of Depravity (2010) and Lies About Ourselves (2013), and three EPs.
+
+The band members Hauptmann D, Mr. Bunny, NooZ and Hoker Dine want to invite all their fans and friends to celebrate the memorable funeral of one of the freakiest bands in Finnish music history.
+
+Tickets: 10e
+
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=vpeurala" class="addthis_button_compact" addthis:url="http://www.coldcoldground.com/index.html#n_25_9_2014" addthis:title="Cold Cold Ground News - 17.11.2013: Cold Cold Ground quits, last show 13th of December">Share</a><span class="addthis_separator">|</span><a class="addthis_button_facebook" addthis:url="http://www.coldcoldground.com/index.html#n_25_9_2014" addthis:title="Cold Cold Ground News - 17.11.2013: Cold Cold Ground quits, last show 13th of December"></a><a class="addthis_button_twitter" addthis:url="http://www.coldcoldground.com/index.html#n_25_9_2014" addthis:title="Cold Cold Ground News - 17.11.2013: Cold Cold Ground quits, last show 13th of December"></a></div><script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=vpeurala"></script>
+<!-- AddThis Button END -->
+
+<hr />
+
 <div class="date">Nov 17th, 2013</div>
 
 h3(#n_17_11_2013). Lies About Ourselves released
