@@ -1,2 +1,5 @@
 markdown: rdiscount
 pygments: true
+gems:
+        - jekyll-textile-converter
+
